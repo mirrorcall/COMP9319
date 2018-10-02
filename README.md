@@ -30,7 +30,7 @@ SUFFIX ARRAY
 
 In this case, constructing a suffix array and achieving BWT by that cannot be a more aprreciable option. Suffix array can be obtainable by the enumeration of the string moving forwards every time. And after sorting them, BWT is going to be the letter before first letter in suffix array.
 
-  * BEFORE 		i		AFTER 		i 			BWT
+    BEFORE 		i		AFTER 		i 			BWT
     banana$		1		$			7			a
     anana$		2		a$			6			n
     nana$		3		ana$		4			n
@@ -45,7 +45,7 @@ ENCODING
 
 Similar to above, the first step to do BWT is to construct the suffix array. One thing different though, applying extended BWT scheme with positional delimiter information is one important key to implement backward search. So that, within the encoding phase, an auxiliary file containing the position of each delimiter in ascending order is necessary. Say, the sooner the delimiter comes, the lower weight it owns.
 
-  * BEFORE 		i		AFTER 		i 			BWT
+    BEFORE 		i		AFTER 		i 			BWT
     ab$abb$c$	1		$abb$c$		3			b
     b$abb$c$	2		$c$			7			b
     $abb$c$		3		$			9			c
