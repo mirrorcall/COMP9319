@@ -1,0 +1,9 @@
+# Object files
+*.o
+
+# Executable files
+bwtencode
+bwtsearch
+
+# Test folders
+test/
