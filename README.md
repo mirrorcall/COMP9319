@@ -71,3 +71,4 @@ CLARIFICATION
  * Unicode set: any visible ASCII alphabet (from 32 to 126), tab and newline
  * Delimiter set: all unicode set except for tab
  * Empty reocrd may exist, such as ab$$abb$, which means that the second record is empty
+a
