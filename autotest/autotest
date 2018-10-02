@@ -1,0 +1,76 @@
+#!/bin/bash
+#set -x #echo on
+
+cp -a ../bwtsearch.c ../bwtencode.c ../futil.c ../futil.h ./
+
+make
+make clean
+
+rm -rf tmpTest1 tmpTest2 tmpTest3 tmpSearch1 tmpSearch2 tmpSearch3
+mkdir tmpTest1
+mkdir tmpTest2
+mkdir tmpTest3
+mkdir tmpSearch1
+mkdir tmpSearch2
+mkdir tmpSearch3
+
+if [ -f bwtencode ] ; then
+
+  echo "Running encoding test..."
+
+  ./bwtencode '$'  ./tmpTest1 test1.txt test1.bwt
+  ./bwtencode '\n' ./tmpTest2 test2.txt test2.bwt
+  ./bwtencode '|'  ./tmpTest3 test3.txt test3.bwt
+
+  enc1=`grep -o ii test1.bwt|wc -l`
+  enc2=`grep -o 111111111111111111111111111111 test2.bwt|wc -l`
+
+  if [[ "$enc1" -ge 1 ]] ; then
+    echo "Encoding of test1.txt seems fine"
+  else
+    echo "Encoding of test1.txt failed"
+  fi
+  if [[ "$enc2" -ge 2 ]] ; then
+    echo "Encoding of test2.txt seems fine"
+  else
+    echo "Encoding of test2.txt failed"
+  fi
+else
+  echo "bwtencode: command does not exist"
+fi
+
+
+if [ -f bwtsearch ] ; then
+
+  echo "Running search test..."
+
+  ./bwtsearch '$' test1.bwt ./tmpSearch1 -m "ir" > search1.ans
+  ./bwtsearch '$' test1.bwt ./tmpSearch1 -n "ir" > search2.ans
+  ./bwtsearch '$' test1.bwt ./tmpSearch1 -a "ir" > search3.ans
+  ./bwtsearch '$' test1.bwt ./tmpSearch1 -i "1 3" > search4.ans
+  ./bwtsearch '\n' test2.bwt ./tmpSearch2 -i "2 11" > search5.ans
+  ./bwtsearch '\n' test2.bwt ./tmpSearch2 -m "99" > search6.ans
+  ./bwtsearch '\n' test2.bwt ./tmpSearch2 -n "1999" > search7.ans
+  ./bwtsearch '\n' test2.bwt ./tmpSearch2 -a "1999" > search8.ans
+  ./bwtsearch '|' test3.bwt ./tmpSearch3 -m "in" > search9.ans
+  ./bwtsearch '|' test3.bwt ./tmpSearch3 -n "in" > search10.ans
+  ./bwtsearch '|' test3.bwt ./tmpSearch3 -a "in" > search11.ans
+  ./bwtsearch '|' test3.bwt ./tmpSearch3 -m "in " > search12.ans
+  ./bwtsearch '|' test3.bwt ./tmpSearch3 -n "in " > search13.ans
+  ./bwtsearch '|' test3.bwt ./tmpSearch3 -a "In" > search14.ans
+  ./bwtsearch '|' test3.bwt ./tmpSearch3 -i "2 2" > search15.ans
+  ./bwtsearch '|' test3.bwt ./tmpSearch3 -i "1 3" > search16.ans
+
+for ((i=1;i<17;++i))
+do
+  correct=`eval diff -q search$i.sol search$i.ans`
+  if [ -z "$correct" ]; then
+    echo "Search $i passed"
+  else
+    echo "Search $i failed"
+  fi
+done
+
+else
+  echo "bwtsearch: command does not exist"
+fi
