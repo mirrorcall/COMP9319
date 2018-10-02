@@ -7,6 +7,7 @@
 
 #define TRUE			1
 #define FALSE			0
+#define INF 			-1
 #define MAX_REC_SIZE	5000
 
 
@@ -201,7 +202,7 @@ for (int l = 0; l < SIGMA; l++)
 				{
 					qsort(records, result, sizeof(int), cmper);
 					for (j = 0; j < k; j++)
-						if (records[j] != 0)
+						if (records[j] != INF)
 							printf("%d\n", records[j]);
 				}
 				free(records);
@@ -274,9 +275,9 @@ rmdup(int *x, int end)
 	{
 		for (j = i+1; j < end; j++)
 		{
-			if (x[i] == x[j] && x[i] != -1)
+			if (x[i] == x[j] && x[i] != INF)
 			{
-				x[j] = -1;
+				x[j] = INF;
 				result--;
 			}
 		}
