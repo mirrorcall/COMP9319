@@ -1,0 +1,25 @@
+# Executable Files
+bwtencode
+bwtsearch
+
+# Scripts
+run
+makefile
+
+# Test Files and Folders
+tmpSearch*/
+tmpTest*/
+*.bwt
+*.aux
+*.tmp
+
+# Large Files
+file_8_mb.txt
+file_20_mb.txt
+
+# Enviromental Variables
+env
+
+# Any Source Codes
+*.h
+*.c
