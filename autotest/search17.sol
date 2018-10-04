@@ -1,0 +1,10 @@
+http://www.informatik.uni-trier.de/~ley/db/about/contributionaward03.html
+http://dblp.uni-trier.de/
+http://www.informatik.uni-trier.de/~ley/db/about/compulog.ps
+http://dx.doi.org/10.5194/hess-15-2947-2011
+http://dx.doi.org/10.5194/hess-15-2947-2011
+http://www.lemis.com/grog/Documentation/Lions/index.html
+http://dx.doi.org/10.5194/hess-16-409-2012
+http://dx.doi.org/10.5194/hess-16-409-2012
+http://www.mathematik.uni-trier.de/preprints/About/FoMaInf_12.html
+http://www.mathematik.uni-trier.de/preprints/About/FoMaInf_11.html

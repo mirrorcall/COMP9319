@@ -1,7 +1,7 @@
 #!/bin/bash
 #set -x #echo on
 
-cp -a ../bwtsearch.c ../bwtencode.c ../futil.c ../futil.h ./
+cp -a ../makefile ../bwtsearch.c ../bwtencode.c ../futil.c ../futil.h ./
 
 make
 make clean
