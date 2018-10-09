@@ -12,6 +12,7 @@ tmpTest*/
 *.bwt
 *.aux
 *.tmp
+test*
 
 # Large Files
 file_8_mb.txt

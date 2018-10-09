@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <sys/time.h>
 
 #include "futil.h"
 
@@ -11,7 +12,7 @@
 #define MAX_REC_SIZE	5000
 
 
-int  id_of_delim(FILE *auf, int value, int num_delim);
+int  id_of_delim(int *delim_rank, int value, int num_delim);
 int  retrieve_nth_delim(FILE *auf, int nth, int num_delim);
 void strrev(char *x, int begin, int end);
 int  next_occ(int **Occ, int curr, int pos);
@@ -19,9 +20,12 @@ int  next_char(int *C, int curr);
 int  rmdup(int *x, int end);
 int  cmper(const void *x, const void *y);
 
-char delim;
 
-int main(int argc, char const *argv[])
+char delim;
+int  is_write;
+
+int 
+main(int argc, char const *argv[])
 {
     delim         = argv[1][0];
     char *en_path = strdup(argv[2]);
@@ -32,26 +36,43 @@ int main(int argc, char const *argv[])
     /* dealing with newline (\n) as delimiter */
 	if (strcmp(argv[1], "\\n") == 0)
 		delim = '\n';
-	
+
 	/* modify correct path of storing temporary files */
 	size_t au_nitem = strlen(argv[2]) + strlen(".aux") + 1;
-	char *au_path = malloc(au_nitem * sizeof(char));
+	char   *au_path = malloc(au_nitem * sizeof(char));
 	memset(au_path, 0, au_nitem);
 	strcpy(au_path, argv[2]);
 	strcat(au_path, ".aux\0");
 
+	size_t id_nitem = strlen(argv[3]) + strlen("/occ.txt") + 1;
+	char   *id_path = malloc(id_nitem * sizeof(char));
+	memset(id_path, 0, id_nitem);
+	strcpy(id_path, argv[3]);
+	strcat(id_path, "/occ.txt\0");
+
     int i, j;
-    FILE *auf = fopen(au_path, "rb");
-    FILE *enf = fopen(en_path, "r");
+    FILE *auf  = fopen(au_path, "rb");
+    FILE *enf  = fopen(en_path, "r");
+    FILE *idfw = fopen(id_path, "w");
     int f_size = get_f_size(enf);
+    
     int *C = calloc(SIGMA, sizeof(int));
     int **Occ = malloc(sizeof(int *) * SIGMA);
-    for (i = 0; i < SIGMA; i++)
-        Occ[i] = calloc(sizeof(int) * f_size, sizeof(int));
+	for (i = 0; i < SIGMA; i++)
+    	Occ[i] = calloc(sizeof(int) * BLOCK_SIZE, sizeof(int));
+    if (f_size > MIN_FSIZE_TO_BE_STORED)
+    	is_write = 1;
+    else
+    {
+    	for (i = 0; i < SIGMA; i++)
+        	Occ[i] = calloc(sizeof(int) * f_size, sizeof(int));
+    	is_write = 0;
+    }
 
-    generate_table(C, Occ, enf);
+    generate_table(C, Occ, enf, idfw);						  // idf need to be closed
+    fclose(idfw);
 
-    /* debug info */
+/* debug info */
 #ifdef DEBUG
 printf("C TABLE:\n");
 for (int l = 0; l < SIGMA; l++)
@@ -63,11 +84,13 @@ for (int l = 0; l < SIGMA; l++)
 		if (Occ[l][g] != 0)
 		{
 			if (l == SIGMA_BEG)
-				printf("Occ(%c, %d)=%d\n", delim, g, Occ[l][g]);
+				printf("%c,%d=%d\n", delim, g, Occ[l][g]);
 			else
-				printf("Occ(%c, %d)=%d\n", l, g, Occ[l][g]);
+				printf("%c,%d=%d\n", l, g, Occ[l][g]);
 		}
 #endif
+	
+	FILE *idfr = fopen(id_path, "r");
 
 	/**************************************
 	* backward search starts here
@@ -78,7 +101,7 @@ for (int l = 0; l < SIGMA; l++)
 	int First, Last;
 	int num_delim = get_f_size(auf) / sizeof(int);
 
-	if (strcmp(option, "-i") == 0)								// gives result of m-to-n records
+	if (strcmp(option, "-i") == 0)							  // gives result of m-to-n records
 	{
 		char *record = malloc(MAX_REC_SIZE);
 		int start, end;
@@ -97,7 +120,19 @@ for (int l = 0; l < SIGMA; l++)
 		{
 			fseek(enf, offset-1, SEEK_SET);
 			c = fgetc(enf);
-			offset = C[c] + next_occ(Occ, c, offset-1) + 1;
+			if (is_write)
+			{
+				//offset = C[c] + next_occ(Occ, c, offset-1) + 1;
+				offset = C[c] + extract_occ(c, offset-1, enf, idfr) + 1;
+				//printf("%d: %d\n", offset-1, next_occ(Occ, c, offset-1)==extract_occ(c, offset-1, enf, idfr));
+			}
+			else
+				offset = C[c] + next_occ(Occ, c, offset-1) + 1;
+
+				// printf("'%c' in %d\n", c, offset-1);
+				// printf("%d\n", next_occ(Occ, c, offset-1)==extract_occ(c, offset-1, enf, idfr));				
+				// printf("%d ", next_occ(Occ, c, offset-1));
+				// printf("%d\n", extract_occ(c, offset-1, enf, idfr));
 
 			if (c == delim)
 			{
@@ -133,85 +168,102 @@ for (int l = 0; l < SIGMA; l++)
 		c = P[p - 1];
 		First = C[c] + 1;
 
-		if (next_char(C, c) == c)
-			Last = First;
-		else
-			Last = C[next_char(C, c)];
+		if (C[c] != 0)
+		{
+		    int *delim_rank = malloc(num_delim * sizeof(int));
+	    	fread(delim_rank, num_delim, sizeof(int), auf);
 
-	    while ((First <= Last) && (i >= 2))
-	    {
-	        c = P[i - 2];
-	        // First = C[c] + Occ[c][First-1] + 1;
-	        First = C[c] + next_occ(Occ, c, First-1) + 1;
-	        // Last = C[c] + Occ[c][Last];
-	        Last = C[c] + next_occ(Occ, c, Last);
-	        i--;
-	    }
+			if (next_char(C, c) == c)
+				Last = First;
+			else
+				Last = C[next_char(C, c)];
 
-	    if (strcmp(option, "-m") == 0)							// gives the number of all matching records
-	    {
+		    while ((First <= Last) && (i >= 2))
+		    {
+		        c = P[i - 2];
 
-	    	if (Last < First)
-	        	;//printf("0\n");
-	    	else
-	        	printf("%d\n", Last-First+1);
-	    }
-	    else									
-	    {
-		    if (Last >= First)
-			{
-		    	int *records = calloc(Last-First+1, sizeof(int));
-		    	int j, k = 0;
-			    int offset;
-			    int record;
-			    int result;
+		        if (is_write)
+		        {
+		        	First = C[c] + extract_occ(c, First-1, enf, idfr) + 1;
+		        	Last = C[c] + extract_occ(c, Last, enf, idfr);
+		        }
+		        else
+		        {
+		        	First = C[c] + next_occ(Occ, c, First-1) + 1;
+		        	Last = C[c] + next_occ(Occ, c, Last);
+		        }
+		        
+		        i--;
+		    }
 
-				// keep searching until reaching delimiter
-			    for (j = First; j <= Last; j++)
-			    {
-			    	offset = j;
-			    	while (TRUE)
-			    	{
-			    		fseek(enf, offset-1, SEEK_SET);
-			    		c = fgetc(enf);
-			    		if (c == delim)
-			    		{
-			    			/*
-			    			 * Since backward search searches to the previous delimter
-			    			 * E.g. obtaining 2 is actually representing third record
-			    			 * Specially, last delimiter represents first record
-			    			 */
-			    			if ((record=id_of_delim(auf, offset, num_delim)) != num_delim)
-			    				records[k] = record + 1;
-			    			else
-			    				records[k] = 1;
-			    			k++;
-			 				break;
-			    		}
-			    		// offset = C[c] + Occ[c][offset-1] + 1;
-			    		offset = C[c] + next_occ(Occ, c, offset-1) + 1;
-			    	}
-			    }
-			    // for (int l = 0; l < k; l++)
-			    // 	printf("%d\n", records[l]);
+		    if (strcmp(option, "-m") == 0)		// gives the number of all matching records
+		    {
 
-			    result = rmdup(records, k);
-				if (strcmp(option, "-n") == 0)					// gives the number of unique matching records
-					printf("%d\n", result);
-				else											// gives the result of appearing records
+		    	if (Last < First)
+		        	;//printf("0\n");
+		    	else
+		        	printf("%d\n", Last-First+1);
+		    }
+		    else									
+		    {
+			    if (Last >= First)
 				{
-					qsort(records, result, sizeof(int), cmper);
-					for (j = 0; j < k; j++)
-						if (records[j] != INF)
-							printf("%d\n", records[j]);
+			    	int *records = calloc(Last-First+1, sizeof(int));
+			    	int j, k = 0;
+				    int offset;
+				    int record;
+				    int result;
+
+					// keep searching until reaching delimiter
+				    for (j = First; j <= Last; j++)
+				    {
+				    	offset = j;
+				    	while (TRUE)
+				    	{
+				    		fseek(enf, offset-1, SEEK_SET);
+				    		c = fgetc(enf);
+
+				    		if (c == delim)
+				    		{
+				    			/*
+				    			 * Since backward search searches to the previous delimter
+				    			 * E.g. obtaining 2 is actually representing third record
+				    			 * Specially, last delimiter represents first record
+				    			 */
+				    			if ((record=id_of_delim(delim_rank, offset, num_delim)) != num_delim)
+				    				records[k] = record + 1;
+				    			else
+				    				records[k] = 1;
+				    			k++;
+				 				break;
+				    		}
+				    	
+				    		if (is_write)
+				    			offset = C[c] + extract_occ(c, offset-1, enf, idfr) + 1;
+			    			else
+					    		offset = C[c] + next_occ(Occ, c, offset-1) + 1;
+				    	}
+				    }
+
+				    result = rmdup(records, k);
+					if (strcmp(option, "-n") == 0)		// gives the number of unique matching records
+						printf("%d\n", result);
+					else								// gives the result of appearing records
+					{
+						qsort(records, k, sizeof(int), cmper);
+						for (j = 0; j < k; j++)
+							if (records[j] != INF)
+								printf("%d\n", records[j]);
+					}
+					free(records);
 				}
-				free(records);
-			}
-	    }
+		    }
+		}
 
 	}
 
     /* closing opening files */
+	fclose(idfr);
     fclose(enf);
     fclose(auf);
     //flush(C, Occ, f_size);
@@ -222,9 +274,16 @@ for (int l = 0; l < SIGMA; l++)
     free(option);
     free(en_path);
 
+    free(C);
+    if (!is_write)
+	    for (i = 0; i < SIGMA; i++)
+    	    free(Occ[i]);
+    free(Occ);
+
     return EXIT_SUCCESS;
 }
 
+// next occ from memory
 int 
 next_occ(int **Occ, int curr, int pos)
 {
@@ -292,19 +351,13 @@ cmper(const void *x, const void *y)
 	return (*(int *)x - *(int *)y);
 }
 
-int 
-id_of_delim(FILE *auf, int value, int num_delim)
+int
+id_of_delim(int *delim_rank, int value, int num_delim)
 {
 	int i;
 	for (i = 0; i < num_delim; i++)
-	{
-		int delim_rank;
-		fseek(auf, sizeof(int) * i, SEEK_SET);
-		fread(&delim_rank, sizeof(int), 1, auf);
-
-		if (delim_rank == (value-1))
+		if (delim_rank[i] == (value-1))
 			break;
-	}
 
 	return i + 1;
 }
