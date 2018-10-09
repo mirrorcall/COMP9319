@@ -11,7 +11,7 @@ tmpSearch*/
 tmpTest*/
 *.bwt
 *.aux
-*.tmp
+*.tmp*
 test*
 
 # Large Files
