@@ -19,7 +19,7 @@ file_8_mb.txt
 file_20_mb.txt
 
 # Enviromental Variables
-env
+.env
 
 # Any Source Codes
 *.h
