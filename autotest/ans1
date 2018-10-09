@@ -1,0 +1,4863 @@
+E. F. Codd
+Further Normalization of the Data Base Relational Model.
+IBM Research Report, San Jose, California
+RJ909
+August
+1971
+ibmTR/rj909.pdf
+db/labs/ibm/RJ909.html
+Patrick A. V. Hall
+Common Subexpression Identification in General Algebraic Systems.
+Technical Rep. UKSC 0060, IBM United Kingdom Scientific Centre
+November
+1974
+Markus Tresch
+Principles of Distributed Object Database Languages.
+technical Report 248, ETH Zrich, Dept. of Computer Science
+July
+1996
+E. F. Codd
+C. J. Date
+Interactive Support for Non-Programmers: The Relational and Network Approaches.
+IBM Research Report, San Jose, California
+RJ1400
+June
+1974
+Michael Ley
+ACM SIGMOD Contribution Award 2003 Acceptance Speech
+2003
+http://www.informatik.uni-trier.de/~ley/db/about/contributionaward03.html
+Werner John
+Dominik Ley
+Joachim Mller
+ROSAR - Rule Oriented System for Analysis of Reflections on Printed Circuit Boards
+40-43
+1994
+Proc. 11th Int. Symposium on Electromagnetic Compatibility (EMC'94)
+E. F. Codd
+Data Base Sublanguage Founded on the Relational Calculus.
+IBM Research Report, San Jose, California
+July
+RJ893
+1971
+E. F. Codd
+Relational Completeness of Data Base Sublanguages.
+In: R. Rustin (ed.): Database Systems: 65-98, Prentice Hall and IBM Research Report RJ 987, San Jose, California
+March
+1972
+ibmTR/rj987.pdf
+db/labs/ibm/RJ987.html
+E. F. Codd
+Derivability, Redundancy and Consistency of Relations Stored in Large Data Banks.
+IBM Research Report, San Jose, California
+RJ599
+August
+1969
+ibmTR/rj599.pdf
+db/labs/ibm/RJ599.html
+Michael Ley
+DBLP.uni-trier.de: Computer Science Bibliography
+http://dblp.uni-trier.de/
+1993
+E. F. Codd
+The Capabilities of Relational Database Management Systems.
+IBM Research Report, San Jose, California
+May
+1981
+RJ3132
+ibmTR/rj3132.pdf
+db/labs/ibm/RJ3132.html
+Michael Ley
+DBLP: A WWW Bibliography on Databases and Logic Programming
+Compulog Newsletter
+1995
+http://www.informatik.uni-trier.de/~ley/db/about/compulog.ps
+Rita Ley
+Markus Casper
+Hugo Hellebrand
+Ralf Merz
+Catchment classification by runoff behaviour with self-organizing maps (SOM)
+Hydrology and Earth System Sciences
+15
+2947-2962
+2011
+http://dx.doi.org/10.5194/hess-15-2947-2011
+http://dx.doi.org/10.5194/hess-15-2947-2011
+John Lions
+Lions' Commentary on UNIX 6th Edition, with Source Code
+1996
+Peer-to-Peer Communications
+1-57398-013-7
+http://www.lemis.com/grog/Documentation/Lions/index.html
+E. F. Codd
+Seven Steps to Rendezvous with the Casual User.
+January
+1974
+179-200
+IFIP Working Conference Data Base Management
+db/conf/ds/dbm74.html#Codd74
+IBM Research Report RJ 1333, San Jose, California
+DS/DS1974/P179.pdf
+db/conf/ds/Codd74.html
+E. F. Codd
+Normalized Data Base Structure: A Brief Tutorial.
+IBM Research Report, San Jose, California
+November
+1971
+RJ935
+Markus Casper
+Gayane Grigoryan
+Oliver Gronz
+Oliver Gutjahr
+Gnther Heinemann
+Rita Ley
+Andreas Rock
+Analysis of projected hydrological behavior of catchments based on signature indices
+Hydrology and Earth System Sciences
+16
+409-421
+2012
+http://dx.doi.org/10.5194/hess-16-409-2012
+http://dx.doi.org/10.5194/hess-16-409-2012
+Klaus Jansen
+One Strike Against the Min-Max Degree Triangulation Problem
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+92-14
+1992
+Manfred Laumen
+Structured PSB-Update for Optimal Shape Design Problems
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-17
+1996
+Reiner Horst
+Nguyen V. Thoai
+An Integer Concave Minimization Approach for the Minimum Concave Cost Capacitated Flow Problem on Networks
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+94-13
+1994
+Reiner Horst
+L. D. Muu
+Nguyen V. Thoai
+A Decomposition Algorithm for Optimization over Efficient Sets
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+97-04
+1997
+Christoph Meinel
+Anna Slobodov
+A Unifying Theoretical Background for Some BDD-based Data Structures
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+94-17
+1994
+Klaus Jansen
+On the Complexity of a Licence Constrained Job Assignment Problem
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+92-15
+1992
+Nguyen V. Thoai
+A Decomposition Method in Nonconvex Mixed-Integer Programming
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+94-10
+1994
+Helmut Seidl
+Fast and Simple Nested Fixpoints
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-05
+1996
+Alexander Kaplan
+Rainer Tichatschke
+Proximal Interior Point Approach in Convex Programming
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-27
+1996
+Dieter Baum
+Zur strukturellen Stabilitt von Kommunikationssystemen - Eine kurze Einfhrung in die Grundlagen
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+95-04
+1995
+Jens Hofmann
+Stability Conditions for the BMAP/G/1 Queue with Level Dependent Arrivals
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-18
+1998
+Dieter Baum
+Vladimir V. Kalashnikov
+Stochastic Models for Communication Networks with Moving Customers
+Universitt Trier, Mathematik/Info
+rmatik, Forschungsbericht
+01-02
+2001
+Hannes Frey
+Johannes K. Lehnert
+Daniel Grgen
+Peter Sturm
+A Generic Background Dissemination Service for Mobile Ad-Hoc Networks
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+04-01
+2004
+Friedemann Leibfritz
+Computational Design of Stabilizing Static Output Feedback Controllers
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-01
+1999
+Christoph Meinel
+Thorsten Theobald
+Local Encoding Transformations for Optimizing OBDD-Representations of Finite State Machines
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-23
+1996
+Reiner Horst
+On Generalized Bisection of N-Simplices
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-06
+1996
+Friedemann Leibfritz
+El-Sayed M. E. Mostafa
+Trust Region Methods for Solving the Optimal Output Feedback Design Problem
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+00-01
+2000
+Christoph Meinel
+Harald Sack
+Xor-OBDDs - a BDD Structure for Probabilistic Verification
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-28
+1998
+Christoph W. Keler
+Helmut Seidl
+Craig Smith
+The SPARAMAT Approach to Automatic Comprehension of Sparse Matrix Computations
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-10
+1999
+Attahiru Sule Alfa
+Lothar Breuer
+An EM Algorithm for Platoon Arrival Processes in Discrete Time
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+02-07
+2002
+Helmut Seidl
+Christian Fecht
+Interprocedural Analysis Based on PDAs
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+97-06
+1997
+Stasys Jukna
+Finite Limits and Lower Bounds for Circuits Size
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+94-06
+1994
+Ulrich Hertrampf
+Complexity Classes with Finite Acceptance Types
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+93-16
+1993
+Rainer Tichatschke
+Alexander Kaplan
+Tim Voetmann
+M. Bhm
+Numerical Solution of Control Problems under Uncertainty and Perturbation of Input Data with Applications in Finance
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+00-05
+2000
+Alexander Kaplan
+Rainer Tichatschke
+Stable Methods for Variational Inequalities with Set Valued Monotone Operators
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+97-07
+1997
+Friedemann Leibfritz
+Static Output Feedback Design by Using a Newton-SQP Interior Point Method
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-03
+1999
+Christoph Meinel
+Anna Slobodov
+Speeding up Variable Reordering of OBDDs
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-40
+1996
+Klaus Jansen
+Gerhard J. Woeginger
+The Complexity of Detecting Crossingfree Configurations in the Plane
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+92-25
+1992
+Markus R. Schmidt
+Dual Characterization of Super-Hedging Prices in a Currency Market with Proportional Transaction Costs
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-24
+1999
+Christoph Meinel
+Harald Sack
+Arno Wagner
+WWW.BDD-PORTAL.ORG: An Experimentation Platform for Binary Decision Diagram Algorithms
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+01-09
+2001
+Peter Gritzmann
+Victor Klee
+On the Complexity of some Basic Problems in Computational Convexity: II. Volume and mixed volumes
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+94-07
+1994
+Martin Gugat
+Zur Berechnung optimaler Steuerungenber Momentenungleichungen
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+00-04
+2000
+Carsten Damm
+On Alternating vs. Parity Communication Complexity
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-20
+1998
+Patrick Justen
+Optimal Control of Thermally Coupled Navier-Stokes Equations in Food Industry
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-19
+1998
+Christoph Meinel
+Anna Slobodov
+Accelerating OBDD-Minimization by Means of Structural and Semantical Properties
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-25
+1998
+Reiner Horst
+Nguyen V. Thoai
+A new Algorithm for Solving the General Quadratic Programming Problem
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+93-22
+1993
+E. Levitin
+Rainer Tichatschke
+On Smoothing of Generalized max-Functions via epsilon-Regularization
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-14
+1996
+M. Davidson
+Primal-Dual Contraint Aggregation Method in Multistage Stochastic Programming
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+97-26
+1997
+Klaus Jansen
+Petra Scheffler
+Generalized Coloring for Tree-like Graphs
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+92-08
+1992
+Tankred Rautert
+Ekkehard W. Sachs
+Computational Design of Optimal Output Feedback Controllers
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+95-12
+1995
+Jordan Gergov
+Christoph Meinel
+Efficient Analysis and Manipulation of OBDDs can be Extended to Read-once-only Branching Programs
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+92-10
+1992
+Nguyen V. Thoai
+A Decomposition Method Using Duality Bounds for Nonconvex Optimization
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+97-24
+1997
+Alexander Kaplan
+Rainer Tichatschke
+Non-quadratic Proximal Regularization with Application to Variational Inequalities in Hilbert Spaces
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+01-01
+2001
+Christoph Meinel
+Harald Sack
+Christian Stangier
+Arno Wagner
+Do We Really Need Common Variable Orders for Synthesizing OBDDs?
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-29
+1998
+Alexander Kaplan
+Rainer Tichatschke
+Interior Proximal Method for Variational Inequalities: Case of Non-paramonotone Operators
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+01-20
+2001
+Ulrich Hertrampf
+Clemens Lautemann
+Thomas Schwentick
+Heribert Vollmer
+Klaus W. Wagner
+On the Power of Polynomial Bit-Reductions
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+92-28
+1992
+D. Kleis
+Ekkehard W. Sachs
+Convergence Rate of the Augmented Lagrangian SQP Method
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+95-19
+1995
+Jochen Bern
+Christoph Meinel
+Anna Slobodov
+Efficient OBDD-Based Boolean Manipulation in CAD Beyond Current Limits
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+94-16
+1994
+Carsten Damm
+On the Complexity of Tensor Formulae
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-20
+1999
+Dieter Baum
+Customer Motion in Queueing Models: The Use of Tangent Vector Fields
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+01-03
+2001
+E. Arian
+A. Battermann
+Ekkehard W. Sachs
+Approximation of the Newton Step by a Defect Correction Process
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-12
+http://www.mathematik.uni-trier.de/preprints/About/FoMaInf_12.html
+1999
+Harald Sack
+Elena Dubrova
+Christoph Meinel
+Mod-p Decision Diagrams: A Data Structure for Multiple-Valued Functions.
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-27
+1999
+Christoph Meinel
+Harald Sack
+Improving XOR-Node Placement for (+)-OBDDs
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+01-07
+2001
+Klaus Lux
+Markus Wiegelmann
+Condensing Tensor Product Modules
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-29
+1996
+Hubertus Th. Jongen
+Jan-J. Rckmann
+Oliver Stein
+Generalized Semi-Infinite Optimization: A First Order Optimality Condition and Examples
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+95-24
+1995
+Lothar Breuer
+An EM Algorithm for Batch Markovian Arrival Processes and its Comparison to a Simpler Estimation Procedure
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+01-14
+2001
+Peter Gritzmann
+Bernd Sturmfels
+Minkowski Addition of Polytopes: Computational Complexity and Applications to Grbner Bases
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+92-06
+1992
+Martin Mundhenk
+Monotonous Oracle Machines
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+95-02
+1995
+Christoph W. Keler
+Integrating Scalable Parallel Libraries and Automatically Parallelizing Compilers
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+94-18
+1994
+Mikail Gevantmakher
+Christoph Meinel
+TI-jPACS - eine frei verfgbare leistungsfhige Plattform zur medizinischen Bildverarbeitung und -visualisierung
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+04-04
+2004
+Stasys Jukna
+On Communication Games with More than Two Players
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+95-11
+1995
+Jochen Bern
+Christoph Meinel
+Anna Slobodov
+Some Heuristics for Generating Tree-like FBDD Types
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+94-03
+1994
+Belinda B. King
+Representation of Feedback Operators for Hyperbolic Partial Differential Equation Control Problems
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-43
+1996
+Lothar Breuer
+Operator-Geometric Solutions for the M/G/k Queue and its Variants
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+00-11
+2000
+Flemming Nielson
+Helmut Seidl
+Succinct Solvers
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+01-12
+2001
+Lothar Breuer
+On Markov-Additive Jump Processes
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+00-07
+2000
+Martin Luckow
+Norbert Th. Mller
+Cascade: A Simple and Efficient Algorithm for Priority Queues
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+94-15
+1994
+Christoph Meinel
+Christian Stangier
+Speeding Up Symbolic Model Checking by Accelerating Dynamic Variable Reordering
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-28
+1999
+Alexander Kaplan
+Rainer Tichatschke
+Proximal Point Methods in Examples
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-20
+1996
+C. T. Kelley
+Ekkehard W. Sachs
+Local Convergence of the Symmetric Rank-One Iteration
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+95-07
+1995
+Dieter Baum
+Vladimir V. Kalashnikov
+No-Waiting Stations with Special Arrival Processes and
+Customer Motion
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+02-16
+2002
+Siegfried Graf
+Harald Luschgy
+Functional Quantization and Small Ball Probabilities for Gaussian Processes
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+02-05
+2002
+R. J. Gardner
+Peter Gritzmann
+Discrete Tomography: Determination of Finite Sets by X-Rays
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+95-13
+1995
+Lars Abbe
+Two Logarithmic Barrier Methods for Convex Semi-Infinite Programming Problems
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-30
+1999
+Christoph Meinel
+Volker Schillings
+tele-TASK - Teleteaching praxistauglich fr den Universittsalltag
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+03-04
+2003
+Klaus Jansen
+Scheduling of Conditional Executed Jobs on Unrelated Processors
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+93-04
+1993
+Florian Jarre
+A QQP-Minimization Method for Semidefinite and Smooth Nonconvex Programs
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-12
+1998
+Carsten Damm
+Stasys Jukna
+On Multiparity Games for Pointer Jumping
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+95-09
+1995
+Peter Dierolf
+The Structure Theorem for Linear Transfer Systems
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+92-02
+1992
+Manfred Laumen
+A Comparison of Numerical Methods for Optimal Shape Design Problems
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-33
+1996
+Gianpiero Cabodi
+Stefano Quer
+Christoph Meinel
+Harald Sack
+Anna Slobodov
+Christian Stangier
+Binary Decision Diagrams and the Multiple Variable Order Problem
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-22
+1998
+Dieter Baum
+Ein Faltungskalkl fr Matrizenfolgen und verallgemeinerte Poisson-Gruppenprozesse
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-36
+1996
+Klaus Jansen
+Scheduling and Related Graph Theoretical Problems
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+93-24
+1993
+N. Lehdili
+C. Ould Ahmed Salem
+Proximal Methods: Decomposition and Selection
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-30
+1998
+Hubertus Th. Jongen
+Oliver Stein
+On Generic One-Parametric Semi-Infinite Optimization
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+95-06
+1995
+Hans L. Bodlaender
+Klaus Jansen
+Gerhard J. Woeginger
+Scheduling with Incompatible Jobs
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+92-09
+1992
+Martin Mundhenk
+Judy Goldsmith
+Christopher Lusena
+Eric Allender
+Complexity of Finite-Horizon Markov Decision process Problems.
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-25
+1999
+Christoph Meinel
+Anna Slobodov
+Peter Willems
+Block-Restricted Reordering - Extended Experiments
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+97-27
+1997
+Martin Gugat
+A Parametric View to the Mangasarian-Fromovitz Constraint Qualification
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-32
+1996
+Christoph Meinel
+Harald Sack
+Volker Schillings
+VisBDD - A Webbased Visualization Framework for OBDD Algorithms
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+01-21
+2001
+Elena Dubrova
+Harald Sack
+Probabilistic Verification of Multiple-Valued Functions
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-23
+1999
+Richard Rdler
+Convergence of Time-Continous Disturbed Martingales and Financial Market Modelling
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-11
+http://www.mathematik.uni-trier.de/preprints/About/FoMaInf_11.html
+1999
+Jrgen Huschens
+On the Use of Product Structure in Secant Methods for Nonlinear Least Squares Problems
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+92-18
+1992
+Peter Gritzmann
+Victor Klee
+D. G. Larman
+Largest j-Simplices in n-Polytopes
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+94-01
+1994
+Markus Mller-Olm
+Helmut Seidl
+Polynomial Constants are Decidable
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+02-09
+2002
+Jochen Bern
+Christoph Meinel
+Anna Slobodov
+Global Rebuilding of OBDD's - Tunneling Memory Requirement Maxima
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+95-03
+1995
+Dieter Baum
+Phasentyp-Verteilungen und Matrix-analytische Methoden
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-15
+1999
+Christoph Meinel
+Arno Wagner
+The WWW meets EDA: Usability evaluation of OBDD-heuristics via the Internet
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-27
+1998
+Peter Gritzmann
+Victor Klee
+On the Complexity of some Basic Problems in Computational Convexity: 1. Containment Problems
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+93-18
+1993
+Lothar Breuer
+The Inhomogeneous BMAP/G/infinity Queue
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+00-06
+2000
+Wei Zhou
+Christoph Meinel
+Implement Role-Based Access Control 
+with Attribute Certificates
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+03-03
+2003
+Randal E. Bryant
+Christoph Meinel
+Ordered Binary Decision Diagrams in Electronic Design Automation
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+02-20
+2002
+Carsten Damm
+Matthias Krause
+Christoph Meinel
+Stephan Waack
+Separating Counting Communication Complexity Classes
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+92-01
+1992
+Peter Gritzmann
+Victor Klee
+Computational Convexity
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-25
+1996
+Manfred Laumen
+A Modified Mesh Independence Principle of Newton's Method
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-16
+1996
+Lothar Breuer
+From Markov Jump Processes to Inhomogeneous BMAPs
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+02-01
+2002
+Christoph Meinel
+Christian Stangier
+Modular Partitioning for Improvement of Image Computation
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+01-16
+2001
+Dieter Baum
+On Approximate Solution Methods for Multi-Queue Systems with 1-Limited Deterministic Service
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+95-22
+1995
+Jens Hofmann
+Norbert Th. Mller
+Kasyap Natarajan
+Parallel versus Sequential Task-Processing: A New Performance Model in Discrete Time
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-46
+1996
+Friedemann Leibfritz
+A LMI-Based Algorithm for Designing Suboptimal Static H
+2
+/H
+infinity
+Output Feedback Controllers
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-02
+1999
+Dieter Baum
+Convolution Algorithms for BMAP/G/1-Queues
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-22
+1996
+Richard Rdler
+Convergence of Disturbed Martingales and a Stochastic Model for Annuity Funds
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-08
+http://www.mathematik.uni-trier.de/preprints/About/FoMaInf_08.html
+1999
+Daniel Grgen
+Matthias Transier
+Peter Sturm
+Wolfgang Effelsberg
+Distributed Script - A Mobile Application for Multi-hop Ad-hoc Networks
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+06-02
+2006
+A. Battermann
+Ekkehard W. Sachs
+An Indefinite Preconditioner for KKT Systems Arising in Optimal Control Problems
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+00-10
+2000
+Klaus Jansen
+A Rainbow about T-Colorings for Complete Graphs
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+93-03
+1993
+El-Sayed M. E. Mostafa
+Ekkehard W. Sachs
+A Lagrangian Method for Solving the Optimal Output Feedback Design Problem
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+00-02
+2000
+Lothar Breuer
+Spatial Queues with Infinitely Many Servers
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-04
+1999
+Klaus Jansen
+Scheduling with Constrained Processor Allocation for Interval Orders
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+92-11
+1992
+R. J. Gardner
+Peter Gritzmann
+D. Prangenberg
+On the Reconstruction of Binary Images from Their Discrete Radon Transforms
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-24
+1996
+Manfred Laumen
+Newton's Method for a Class of Optimal Shape Design Problems
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-15
+1996
+Jrgen Huschens
+On a Fast Algorithm for Constrained Nonlinear Least Squares Problems
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+92-19
+1992
+Christoph Meinel
+Thorsten Theobald
+Ordered Binary Decision Diagrams and Their Significance in Computer-Aided Design of VLSI Circuits
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-01
+1998
+Sebastian Maneth
+Thomas Perst
+Helmut Seidl
+Exact XML Type Checking in Polynomial Time.
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+06-04
+2006
+Thomas Burger
+Peter Gritzmann
+Polytopes in Combinatorial Optimization
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-08
+1996
+Peter Gritzmann
+Victor Klee
+Separation by Hyperplanes in Finite-Dimensional Vector Spaces Over Archimedean Ordered Fields
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+97-02
+1997
+Siegfried Graf
+Harald Luschgy
+Quantization for Probability Measures in the Prohorov Metric
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+02-03
+2002
+Dieter Baum
+Zum Gleichgewichtsverhalten von Markov-Prozessen
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-03
+1998
+Klaus Lux
+Markus Wiegelmann
+Determination of Socle Series using the Condensation Method
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-30
+1996
+Artur Czumaj
+Przemyslawa Kanarek
+Miroslaw Kutylowski
+Krzysztof Lorys
+Fast Generation of Random Permutations via Networks Simulation
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-26
+1996
+Lothar Breuer
+On the GI/G/k Queue with Lebesgue-Dominated Inter-Arrival Time Distribution
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+01-10
+2001
+Oleg Khamisov
+On Optimization Properties of Functions with a Concave Minorant
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+97-11
+1997
+Andreas Brieden
+Peter Gritzmann
+On Helly's Theorem: Algorithms and Extensions
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-28
+1996
+Rustam Mubarakzjanov
+Lower Bounds for Randomized Branching Programs with a Big OBDD Part
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+00-13
+2000
+Carsten Damm
+Markus Holzer
+Peter Rossmanith
+Expressing Uniformity via Oracles
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+95-01
+1995
+Dimitri Efrosinin
+Lothar Breuer
+Vladimir Rykov
+Optimal Allocation of Jobs between Heterogeneous Servers in the Retrial MAP/PH/K Queue
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+02-15
+2002
+Peter Gritzmann
+Victor Klee
+B. S. Tam
+Cross-Positive Matrices Revisited
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+93-17
+1993
+Dieter Baum
+BMAP/G/1-Queues: Properties of the Fundamental-Period-Matrix G
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-10
+1996
+Christopher Lusena
+Judy Goldsmith
+Martin Mundhenk
+Nonapproximability Results for Partially Observable Markov Decision Processes
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+00-12
+2000
+Anna Bernasconi
+Carsten Damm
+Igor Shparlinski
+Circuit and Decision Tree Complexity of Some Number Theoretic Problems
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-21
+1998
+Feng Cheng 0002
+Paul Ferring
+Christoph Meinel
+Lock-Keeper Technology - A New Network Security Solution
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+03-05
+2003
+Thomas Erlebach
+Klaus Jansen
+Scheduling of Virtual Connections in Fast Networks
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-19
+1996
+Jochen Bern
+Christoph Meinel
+The Electronic Colloquium on Computational Complexity (ECCC): A Digital Library in Use
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+97-16
+1997
+Friedemann Leibfritz
+Ekkehard W. Sachs
+Inexact SQP Interior Point Methods and Large Scale Optimal Control Problems
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-09
+1996
+Helmut Seidl
+Aditya V. Nori
+On the Expressiveness of Tree Set Operators
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+02-17
+2002
+Christoph W. Keler
+Helmut Seidl
+ForkLight: A Control-Synchronous Parallel Programming Language
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-13
+1998
+Peter Gritzmann
+Victor Klee
+John Westwater
+Polytope Containment and Determination by Linear Probes
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+92-26
+1992
+Friedemann Leibfritz
+El-Sayed M. E. Mostafa
+Optimal Static Output Feedback Design By Using a Trust Region Interior Point Method
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+00-03
+2000
+Reiner Horst
+Nguyen V. Thoai
+A Decomposition Approach for the Global Minimization of Biconcave Functions over Polytopes
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+93-23
+1993
+Tim Voetmann
+On Regularisation of Nonconvex Problems
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+01-17
+2001
+R. J. Gardner
+Peter Gritzmann
+Successive Determination and Verification of Polytopes by their X-Rays
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+92-03
+1992
+Reiner Horst
+Ulrich Raber
+Convergent Outer Approximation Algorithms for Solving Unary Problems
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-39
+1996
+M. Davidson
+Stochastic Constraint Aggregation Method for Convex Semi-Infinite Problems
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+97-17
+1997
+Christoph Meinel
+Harald Sack
+Volker Schillings
+IDDS: An Interactive Decentallzed Documentation System
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+01-15
+2001
+Klaus Jansen
+On the Complexity of One Branching Graphs
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+92-12
+1992
+Dieter Baum
+On Markovian Spatial Arrival Processes for the Performance Analysis of Mobile Communication Networks
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-07
+1998
+Dirk Frosch-Wilke
+Exact Analysis of Closed Synchronized Systems of Stochastic Sequential Processes
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+93-02
+1993
+Lothar Breuer
+A Piecewise-Deterministic Model for Brownian Motion
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+02-06
+2002
+Beniamino Di Martino
+Christoph W. Keler
+Two Program Comprehension Tools for Automatic Parallelization: A Comparative Study
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+97-23
+1997
+Markus Mller-Olm
+Precise Interprocedural Dependence Analysis of Parallel Programs
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+02-08
+2002
+Peter Gritzmann
+Victor Klee
+Computational Complexity of Inner and Outer j-RADII of Polytopes in Finite-Dimensional Normed Spaces
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+93-06
+1993
+Reiner Horst
+L. D. Muu
+M. Nast
+A Branch-and-Bound Decomposition Approach for Solving Quasiconvex-Concave Programs
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+93-11
+1993
+Lothar Breuer
+Neue Ergebnisse fr BMAPs und rumliche Warteschlangen
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-10
+1998
+Jordan Gergov
+Christoph Meinel
+Efficient Boolean Manipulation with OBDD's can be Extended to FBDD's
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+93-12
+1993
+Reiner Horst
+Nguyen V. Thoai
+Constraint Decomposition Algorithms in Global Optimization
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+93-15
+1993
+Lothar Breuer
+On the Distribution of cdlg Processes without Explosions
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+02-02
+2002
+Jochen Bern
+Jordan Gergov
+Christoph Meinel
+Anna Slobodov
+Boolean Manipulation with Free BDD's - First Experimental Results
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+93-20
+1993
+Thorsten Theobald
+Christoph Meinel
+State Encodings and OBDD-Sizes
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-04
+1996
+Andreas Neumann
+Helmut Seidl
+Locating Matches of Tree Patterns in Forests
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-08
+1998
+Volker Klotz
+Christoph Meinel
+10 Jahre ECCC - Eine Digitale Bibliothek in weltweiter Benutzung
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+04-05
+2004
+Jordan Gergov
+Christoph Meinel
+Mod-2-OBDD's: A Generalization of OBDD's and EXOR-Sum-of-Products
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+93-21
+1993
+S. Rotin
+Reduction of Some Optimal Control Problems with Variational Inequalities to Ill-Posed Optimal Control Problems with Linear State Equations
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+00-08
+2000
+E. Levitin
+Reduction of Generalized Semi-Infinite Programming Problems to Semi-Infinite or Piece-Wise Smooth Programming Problems
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+01-08
+2001
+Peter Gritzmann
+Victor Klee
+External Tangents and Closedness of Cone + Subspace
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+93-14
+1993
+Horst Schmitt
+On the Numerical Simulation of Bingham Fluid Flows Using Prox-Regularization
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-05
+1998
+Andreas Neumann
+Unambiguity of SMGL Content Models - Pushdown Automata Revisited
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+97-05
+1997
+Richard Rdler
+Convergence of Generalized Supermartingales with Continous Parameter
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-05
+http://www.mathematik.uni-trier.de/preprints/About/FoMaInf_05.html
+1999
+Volker Schmidt
+Peter Dierolf
+A Pre-Dual for the Convolution Algebra D'(Gamma+)
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+93-13
+1993
+Thomas Erlebach
+Klaus Jansen
+An Optimal Greedy Algorithm for Wavelength Allocation in Directed Tree Networks
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+97-03
+1997
+Klaus Jansen
+Complexity Results for the Optimum Cost Chromatic Partition Problem
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-41
+1996
+Christoph W. Keler
+Scheduling Expression DAGs for Minimal Register Need
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-12
+1996
+Klaus Jansen
+Approximation Results for Wavelength Routing in Directed Binary Trees
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-37
+1996
+Gurami Tsitsiashvili
+M. A. Osipova
+N. V. Koliev
+Dieter Baum
+A Product Theorem for Markov Chains with Application to PF-Queueing Networks
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+01-11
+2001
+Alexander Kaplan
+Rainer Tichatschke
+Proximal Interior Point Approach for Solving Convex Semi-infinite Programming Problems
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-09
+1998
+Jordan Gergov
+Christoph Meinel
+Analysis and Manipulation of Boolean Functions in Terms of Decision Graphs
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+92-07
+1992
+Dieter Baum
+On MAPA/G/K/K Stations
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-18
+1999
+Lothar Breuer
+Marco Gilbert
+Parameter Estimation for BMAPs
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+00-09
+2000
+Dieter Baum
+Vom M/G/1- zum BMAP/G/1-Modell
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+02-18
+2002
+Jochen Bern
+Christoph Meinel
+One Step Further: Integrating Electronic Submission and the Reviewing Process
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-16
+1999
+Marco Fahl
+Computation of PODs for Fluid Flows with Lanczos Methods
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-13
+http://www.mathematik.uni-trier.de/preprints/About/FoMaInf_13.html
+1999
+Abdelouahed Hamdi
+Convergence Results on Proximal Method of Multipliers in Nonconvex Programming
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-32
+1998
+Bernd Sturmfels
+Markus Wiegelmann
+Structural Grbner Basis Detection
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-31
+1996
+Christoph Meinel
+A Note on Mbius Functions and the Communication Complexity of the Graph-Accessability-Problem
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+92-05
+1992
+Kasyap Natarajan
+On the G/GE/1 Queue
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+93-10
+1993
+Helmut Seidl
+A Modal-Calculus for Durational Transition Systems
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+95-08
+1995
+Carsten Damm
+A Note on Spectral Lower Bound Arguments for Decision Trees
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+97-21
+1997
+Carsten Damm
+On Boolean vs. Modular Arithmetic for Circuits and Communication Protocols
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-06
+1998
+Christoph W. Keler
+Helmut Seidl
+Language Support for Synchronous Parallel Critical Sections
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+95-23
+1995
+Christoph Meinel
+Christian Stangier
+OBDD-based Verification of Communication Protocols - Methods for the Verification of Data Link Protocols
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+97-28
+1997
+18. Workshopber Komplexittstheorie, effiziente Algorithmen und Datenstrukturen, Universitt Trier, 20. Oktober 1992 (Abstracts)
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+92-17
+1992
+Markus Roters
+The Theory of Optimal Sampling in Continuous Time
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+97-25
+1997
+Peter Gritzmann
+Alexander Hufnagel
+On the Algorithmic Complexity of Minkowski's Reconstruction Theorem
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+95-15
+1995
+Nguyen V. Thoai
+Utility Function Program with or without Explicit Form of Utility Function
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-45
+1996
+Ditmar Erdmann
+A New Proof of the Beckenbach Inequalities
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+03-02
+2003
+E. Levitin
+Rainer Tichatschke
+A Branch and Bound Approach for Solving a Class of Generalized Semi-Infinite Programming Problems
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-34
+1996
+Martin Gugat
+A Fast and Robust Algorithm for a Class of Generalized Fractional Programs
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+94-11
+1994
+Christoph Meinel
+Die Entwicklung der Informatik braucht Theorie und Praxis: Ein Fallbeispiel aus dem CAD-Schaltkreisentwurf
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+95-21
+1995
+Martin Mundhenk
+The complexity of optimal small policies
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-22
+1999
+Christoph Meinel
+Stephan Waack
+Upper and Lower Bounds for Certain Graph-Accessability-Problems on Bounded Alternating (omega)-Branching Programs
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+92-04
+1992
+Helmut Seidl
+Model-Checking for L
+2
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+97-18
+1997
+Christoph Meinel
+Fabio Somenzi
+Thorsten Theobald
+Function Decomposition and Synthesis Using Linear Sifting
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+97-14
+1997
+Lothar Breuer
+Two short notes
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+01-18
+2001
+Christoph Meinel
+Stephan Waack
+The Mbius Function, Variations Ranks, and Theta(n)-Bounds on the Modular Communication Complexity of the Undirected Graph Connectivity Problem
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+94-04
+1994
+Martin Gugat
+Ein Newtonverfahren zur zeitoptimalen Vibrationsdmpfung
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-21
+1996
+Subhendu Bikash Hazra
+Volker Schulz
+Numerical Parameter Identification in Non-isothermal Multiphase Multicomponent Flow through Porous Media
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+02-12
+2002
+Heidi Jger
+Ekkehard W. Sachs
+Global Convergence of Inexact Reduced SQP Methods
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+95-20
+1995
+Helmut Finner
+Anthony J. Hayter
+Markus Roters
+On the Joint Distribution Functions of Order Statistics with Reference to Step-up Multiple Test Procedures
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+93-19
+1993
+Subhendu Bikash Hazra
+An Efficient Method for Aerodynamic Shape Optimization
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+04-07
+2004
+Reiner Horst
+M. Nast
+Nguyen V. Thoai
+A New LP-Bound in Multivariate Lipschitz Optimization: Application to Unconstrained and Linearly Constrained Problems and to Systems of Inequalities
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+94-08
+1994
+Dieter Baum
+Gurami Tsitsiashvili
+On Product Connection Theorems for Markov Chains
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+01-19
+2001
+Subhendu Bikash Hazra
+Volker Schulz
+Simultaneous Pseudo-Timestepping for PDE-model Based Optimization Problems
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+02-23
+2002
+Dirk Frosch
+Product Form Solu
+tions for Closed Synchronized Systems of Stochastic Sequential Processes
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+92-13
+1992
+Rainer Hettich
+Hubertus Th. Jongen
+On Continuous Deformations of Semi-Infinite Optimization Problems
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+94-02
+1994
+Dieter Baum
+The Infinite Server Queue with Markov Additive Arrivals in Space
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-31
+1998
+Subhendu Bikash Hazra
+H. Class
+R. Helmig
+Volker Schulz
+Forward and Inverse Problems in Modeling of Multiphase Flow and Transport Through Heterogeneos Porous Media
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+02-13
+2002
+Dieter Baum
+Approximate Analysis of Multi-Queue Stations with 1-Limited Service
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+94-14
+1994
+Carsten Damm
+Stasys Jukna
+Jiri Sgall
+Some Bounds on Multiparty Communication Complexity of Pointer Jumping
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+95-17
+1995
+Michael Schmitt II
+Christoph Meinel
+Design and Implementation of a PHP-based Web Server for the Tele-Lab IT Security
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+03-06
+2003
+Paul B. Hermanns
+Nguyen V. Thoai
+Method for Global Optimization of Class of Nonlinear Bilevel Programming Problems
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+02-14
+2002
+Dieter Baum
+Rumliche Markov-additive Prozesse und Bedienstationen ohne Warteraum
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+03-01
+2003
+Helmut Finner
+Markus Roters
+Log-concavity and Inequalities for Chi-square, F and Beta Distributions with Applications in Multiple Comparisons
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-18
+1996
+Mikail Gevantmakher
+Christoph Meinel
+Medizinische Bildverarbeitung - einebersicht
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+04-03
+2004
+Alexander Kaplan
+Rainer Tichatschke
+Regularized Penalty Method for Parabolic Optimal Control Problems
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+97-10
+1997
+Christoph W. Keler
+Helmut Seidl
+Integrating Synchronous and Asynchronous Paradigms: The Fork95 Parallel Programming Language
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+95-05
+1995
+Matthias Heinkenschloss
+Numerical Solution of a Semilinear Parabolic Control Problem
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+92-24
+1992
+Dimitri Efrosinin
+Lothar Breuer
+Vladimir Rykov
+An Optimization Algorithm for the MAP/PH/K Queue with Heterogeneous Servers
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+02-11
+2002
+Christoph Meinel
+Anna Slobodov
+On the Complexity of Constructing Optimal OBDD's
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+94-05
+1994
+Christoph Meinel
+Christian Stangier
+Increasing Efficiency of Symbolic Model Checking by Accelerating Dynamic Variable Reordering
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-23
+1998
+Alexander Kaplan
+Rainer Tichatschke
+Weak Error Tolerance Criterion in Generalized Proximal Methods
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+02-22
+2002
+Christoph Meinel
+Harald Sack
+Algorithmic Considerations for +-OBDD Reordering
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-19
+1999
+S. Rotin
+Regularisierte Strafmethoden fr inkorrekt gestellte Kontrollprobleme mit linearen Zustandsgleichungen
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-02
+1998
+Christoph W. Keler
+Practical PRAM Programming with Fork95 - A Tutorial
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+97-12
+1997
+Christoph Meinel
+Fabio Somenzi
+Thorsten Theobald
+Linear Sifting of Decision Diagrams
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-42
+1996
+Jens Hofmann
+The BMAP/G/1 Queue with Level Dependent Arrivals and its Stationary Distribution
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+97-22
+1997
+Christian Stangier
+Ulrich Holtmann
+Applying Formal Verification with Protocol Compiler
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-29
+1999
+Carsten Damm
+Markus Holzer
+Inductive Counting below LOGSPACE
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+94-12
+1994
+Christoph Meinel
+Harald Sack
+Case Study: Manipulating xor-OBDDs by Means of Signatures
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+97-15
+1997
+Richard Rdler
+Stochastic Modeling of Server Capacity Utilization by Geometric Sums
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-16
+1998
+Friedemann Leibfritz
+Logarithmic Barrier Methods for Solving the Optimal Output Feedback Problem
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+95-16
+1995
+Christoph Meinel
+Anna Slobodov
+An Adequate Reducibility Concept for Problems Defined in Terms of Ordered Binary Decision Diagrams
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-02
+1996
+Anna Slobodov
+Christoph Meinel
+Efficient Manipulation of FBDDs by Means of a Modified OBDD-Package
+Universitt Trier, Mathemati
+k/Informatik, Forschungsbericht
+93-09
+1993
+Subhendu Bikash Hazra
+Volker Schulz
+Simultaneous Pseudo-Timestepping for Aerodynamic Shape Optimization Problems with State Constraints
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+04-06
+2004
+Klaus Jansen
+Approximation Results for the Optimum Cost Chromatic Partition Problem
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+97-01
+1997
+Dieter Baum
+Norbert Th. Mller
+Richard Rdler
+MMB '99, Messung, Modellierung und Bewertung von Rechen- und Kommunikationssystemen, 10. GI/NTG-Fachtagung, 22.-24. September 1999, Trier, Kurzbeitrge und Toolbeschreibungen
+MMB (Kurzvortrge)
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-16
+1999
+db/conf/mmb/mmb99k.html
+Kasyap Natarajan
+On the Queue-Length-Distributions of the E
+k
+/M
+X
+/1 Queue and of the E
+k
+/GE/1 Queue under Repetitive-Service Blocking
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+92-27
+1992
+Mirjam Dr
+Reiner Horst
+Lagrange-Duality and Partitioning Techniques in Nonconvex Global Optimization
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-38
+1996
+Nguyen V. Thoai
+Global Optimization Techniques for Solving the General Quadratic Integer Programming Problem
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+94-09
+1994
+Reiner Horst
+Nguyen V. Thoai
+Utility Function Programs and Optimization over the Efficient Set in Multiple Objective Decision Making
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-03
+1996
+Dieter Baum
+Spatial Generalization of BMAP's with Finite State Space
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-11
+1998
+Christoph Meinel
+Klaus Schwettmann
+Anna Slobodov
+Application Driven Variable Reordering and an Example in Reachability Analysis
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-24
+1998
+Abdelouahed Hamdi
+Convergence Results on Proximal Method of Multipliers in Nonconvex Programming
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-26
+1998
+Richard Rdler
+A Phase Space Model for Spatial BMAPs
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-15
+1998
+Klaus Jansen
+Petra Scheffler
+Gerhard J. Woeginger
+The Disjoint Cliques Problem
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+92-23
+1992
+Thomas Burger
+Peter Gritzmann
+Victor Klee
+Polytope Projection and Projection Polytopes
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+95-14
+1995
+Richard Rdler
+On the Rareness of Disturbed Martingales in the Class of all Uniformly L
+1
+-bounded Stochastic Processes
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-09
+http://www.mathematik.uni-trier.de/preprints/About/FoMaInf_01.html
+1999
+Jrgen Huschens
+Structured Quasi-Newton Methods for Optimization Problems in Hilbert Space
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+92-20
+1992
+Carsten Damm
+Katja Lenz
+Symmetric Functions in AC
+0
+2
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+93-05
+1993
+Alexander Kaplan
+Rainer Tichatschke
+Auxiliary Problem Principle and Proximal Point Methods
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-14
+1999
+http://www.mathematik.uni-trier.de/preprints/About/FoMaInf_1999_14.html
+Patrick Reuther
+Personal Name Matching: New Test Collections and a Social Network based Approach.
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+06-01
+2006
+http://dbis.uni-trier.de/Mitarbeiter/reuther_files/private/paper/fb-06-01.pdf
+Lothar Breuer
+Approximating Semi-Markov Processes by MAPs, with an Application on Queueing Theory
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+02-19
+2002
+E. Levitin
+On Local Convex Majorizing Approximations of Generalized Semi-Infinite Programming Problems
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-35
+1996
+Christian Fecht
+Helmut Seidl
+An Even Faster Solver for General Systems of Equations
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-11
+1996
+Klaus Jansen
+Scheduling of Conditional Executed Jobs
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+93-01
+1993
+Harald Luschgy
+Complete Families of Invariant Distributions
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+97-08
+1997
+Dieter Baum
+Luciano Lenzini
+Performance Analysis of SDN Specific Error Procedures: Comparison of Step-by-Step and End-to-End Schemes
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+92-21
+1992
+Dieter Baum
+Igor N. Kovalenko
+On Graph Models for Communicating Mobiles in Access Areas
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+01-13
+2001
+Christoph Meinel
+Harald Sack
+A Heuristic for (+)-OBDD Minimization
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+01-06
+2001
+Reiner Horst
+M. Nast
+Linearly Constrained Global Minimization of Functions with Concave Minorants
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-01
+1996
+Richard Rdler
+Stability Analysis of Wireless Networks
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+98-14
+1998
+Matthias Heinkenschloss
+On the Solution of a Two Ball Trust Region Sub
+problem
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+92-16
+1992
+Jnos Sztrik
+Oliver Mller
+Stochastic Simulation of Markov Modulated Finite-Source Queues
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-06
+1999
+Stasys Jukna
+The Graph of Integer Multiplication is Hard for Read-k-Times Networks
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+95-10
+1995
+Alexander Kaplan
+Rainer Tichatschke
+Proximal Methods in View of Interior-Point-Strategies
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+95-18
+1995
+Christoph Meinel
+Volker Schillings
+tele-TASK - Teleteaching Anywhere Solution Kit
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+02-21
+2002
+Belinda B. King
+Nonuniform Grids for Reduced Basis Design of Low Order Feedback Controllers for Nonlinear Continuous Systems
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+97-09
+1997
+Horst Schmitt
+On a Weak Norm Based Prox-Regularization Method
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+97-20
+1997
+Carsten Damm
+How Much ExOR Improves on OR?
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+93-07
+1993
+Helmut Seidl
+Christian Fecht
+Propagating Differences: An Efficient New Fixpoint Algorithm for Distributive Constraint Systems
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+97-13
+1997
+Helmut Seidl
+Varmo Vene
+Markus Mller-Olm
+Interprocedural Invariants
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+02-10
+2002
+Martin Mundhenk
+Propositional Proofs and Their Complexity
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-21
+1999
+Jnos Sztrik
+Oliver Mller
+A Tool for Simulation of Markov Modulated Finite-Source Queueing Systems
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-07
+1999
+Ulrich Hertrampf
+On the Acceptance Power of Groups and Semigroups
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-07
+1996
+Gerd Hoff
+Martin Mundhenk
+Finding Scientific Papers with HPSearch and MOPS
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+99-26
+1999
+Siegfried Graf
+Harald Luschgy
+Quantization for Probability Measures with Respect to the Geometric Mean Error
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+02-04
+2002
+Jrgen Huschens
+On Multiplicative Structure in Quasi-Newton Methods for Nonlinear Equations
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+92-22
+1992
+Klaus Jansen
+Joachim Reiter
+Approximation Algorithms for Register Allocation
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+96-13
+1996
+Jordan Gergov
+Christoph Meinel
+Combinational Logic Verification with FBDDs
+Universitt Trier, Mathematik/Informatik, Forschungsbericht
+93-08
+1993
+Paul R. McJones
+The 1995 SQL Reunion: People, Project, and Politics, May 29, 1995.
+Digital System Research Center Report
+SRC1997-018
+1997
+http://www.mcjones.org/System_R/SQL_Reunion_95/
+decTR/src1997-018.pdf
+Michael Czymmeck
+Subsumtion fr eine erweiterte attributive Sortenbeschreibungssprache
+IWBS Report
+83
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Brigitte Bartsch-Sprl
+Zur Systemarchitektur von LILOG
+LILOG-Memo
+2
+1987
+IBM Deutschland GmbH
+Jochen Drre
+Ingo Raasch
+The Stuttgart Type Unification Formalism - User Manual
+IWBS Report
+168
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Jochen Drre
+Roland Seiffert
+Sorted Feature Terms and Relational Dependencies
+IWBS Report
+153
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Gudrun Klose
+Prozedurale Semantik. Reprsentation der Sprechergegenwart.
+IWBS Report
+180
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Jrgen Pietsch
+R. Zieschank
+D. Marx
+P. Klug-Lier
+Bernd Page
+Ulrike Weiland
+D. Eberle
+Erster EXCEPT-Workshop: Computeruntersttzte Umweltvertrglichkeitsprfung
+IWBS Report
+125
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Toni Bollinger
+Ulrich Hedtstck
+Claus-Rainer Rollinger
+Reasoning for Text Understanding - Knowledge Processing in the 1st LILOG-Prototype
+IWBS Report
+72
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Gudrun Klose
+Ewald Lang
+Thomas Pirlein
+Die Ontologie und Axiomatik der Wissensbasis von LEU/2 - Erfahrungen, Probleme, Ausblicke
+IWBS Report
+171
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Egon Brger
+A Logical Operational Semantics of Full Prolog Part III: Built-in Predicates for Files, Terms, Arithmetic and Input-Output
+IWBS Report
+117
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Christoph Beierle
+Udo Pletat
+Hans Uszkoreit
+An Algebraic Characterization of STUF
+LILOG-Report
+40
+1988
+IBM Deutschland GmbH
+Simone Pribbenow
+Vertrglichkeitsprfungen fr die Verarbeitung rumlichen Wissens
+LILOG-Report
+47
+1988
+IBM Deutschland GmbH
+Thomas Wetter
+Rolf Engelbrecht
+Reinhold Haux
+Frank Puppe
+Hans Vo
+Wissensbasierte Systeme in der Medizin: GMDS/GI, Abstracts des 1. gemeinsamen Workshops der AG Expertensysteme der GMDS und der FG Diagnostik und Klassifikation im GI-Fachausschu1.5, 29.-30. Mrz 1990, Heidelberg
+IWBS Report
+112
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Roland Seiffert
+How could a good system of practical NLP look like?
+IWBS Report
+228
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Elisabeth Breidt
+Die Behandlung von mehrdeutigen Verben in der Maschinellenbersetzung
+IWBS Report
+158
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Christoph Beierle
+An Overview on Planning Applications in PROTOS-L
+IWBS Report
+163
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Sebastian Millies
+Ein modularer Ansatz fr prinzipienbasiertes Parsing
+IWBS Report
+139
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Bernhard Nebel
+Terminological Reasoning is Inherently Intractable
+IWBS Report
+82
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Claudia Maienborn
+Lokale Verben und Prpositionen: Semantische und konzeptuelle Verarbeitung in LEU II
+IWBS Report
+119
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Erich Gehlen
+Burkhard Kehrbusch
+Mengenorientierte Auswertung von Anfragen in der Logikprogrammiersprache PROLOG
+LILOG-Report
+61
+1988
+IBM Deutschland GmbH
+Roland Seiffert
+Operationen in erweiterten Typunifikationsformalismen
+LILOG-Report
+46
+1988
+IBM Deutschland GmbH
+Brigitte Bartsch-Sprl
+Zur Behandlung komplexer Objekte in LILOG
+LILOG-Memo
+4
+1987
+IBM Deutschland GmbH
+Kurt Eberle
+Quantifikation, Plural, Ereignisse und ihre Argumente in einer mehrsortigen Sprache der Prdikatenlogik erster Stufe
+IWBS Report
+67
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Herbert J. Leass
+Anaphora Resolution for Machine Translation: A Study
+IWBS Report
+187
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Thomas Ludwig
+Arne Pott
+Rule Rewriting Techniken zur globalen Optimierung von FLL-Programmen
+IWBS Report
+105
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Roland Seiffert
+Parsingstrategien fr Unifikationsgrammatiken mit ID/LP-Regeln
+LILOG-Memo
+6
+1987
+IBM Deutschland GmbH
+Claus-Rainer Rollinger
+Rudi Studer
+Hans Uszkoreit
+Ipke Wachsmuth
+Textunderstanding in LILOG - Sorts and Reference Objects
+LILOG-Report
+25
+1987
+IBM Deutschland GmbH
+Kai von Luck
+KL-ONE: Eine Einfhrung
+IWBS Report
+106
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Peter Bosch
+Representation and Accessibility of Discourse Referents
+LILOG-Report
+24
+1987
+IBM Deutschland GmbH
+Holger M. Wittmann
+Ein Beispiel zur wissensbasierten Produktionsplanung mit PROTOS-L.
+IWBS Report
+170
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Peter Gerstl
+Mengenkonzepte in Unifikationsgrammatiken
+IWBS Report
+223
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Sven Lorenz
+Persistence and Justified Causation: Some Remarks on Nonmonotonic Temporal Reasoning
+IWBS Report
+179
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Andreas Arning
+A Polynomial Method for Finding Irregularities in Large Example Sets
+IWBS Report
+183
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Joachim Maier
+Integration von Constraints in die L
+LILOG
+Sortenbeschreibungssprache
+IWBS Report
+85
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Thomas Ludwig
+Bernd Walter
+EFTA: A Database Retrieval Algebra for Feature Terms
+IWBS Report
+150
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Andreas Eisele
+Jochen Drre
+Disjunctive Unification
+IWBS Report
+124
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Reiner Hhnle
+Spezifikation eines Theorembeweisers fr dreiwertige First-Order Logik.
+IWBS Report
+136
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Jan Wilms
+Standards fr das Programmieren in Prolog fr LILOG, Version 1.0
+LILOG-Memo
+1
+1987
+IBM Deutschland GmbH
+Christoph Beierle
+Egon Brger
+A WAM Extension for Type-Constraint Logic Programming: Specification and Correctness Proof
+IWBS Report
+200
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Kai-Uwe Carstensen
+Aspekte der Generierung von Wegbeschreibungen
+IWBS Report
+190
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Michel E. Adiba
+Bruce G. Lindsay
+Database Snapshots.
+IBM Research Report
+RJ2772
+1980
+db/labs/ibm/RJ2772.html
+ibmTR/rj2772.pdf
+Christoph Beierle
+Angi Vo
+Stepwise Software Development with Algebraic Specifications
+IWBS Report
+140
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Jutta Krei
+ber die W's der Textgenerierung: Was, wofr, wo und wie: Wissensbasierte Generierung von informierenden Texten in einem Auskunftssystem
+IWBS Report
+148
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Raymond A. Lorie
+XRM - An Extended (N-ary) Relational Memory.
+IBM Cambridge Scientific Center
+IBM Research Report
+G320-2096
+January
+1974
+db/labs/ibm/G320-2096.html
+ibmTR/g320-2096.pdf
+Toni Bollinger
+A Model Elimination Calculus for Generalized Clauses
+IWBS Report
+182
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Werner Emde
+Claus-Rainer Rollinger
+Wissensreprsentation und Maschinelles Lernen
+LILOG-Report
+15
+1987
+IBM Deutschland GmbH
+Toni Bollinger
+Udo Pletat
+Knowledge in Operation
+IWBS Report
+165
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Birgit Wesche
+Symmetric Coordination: An Alternative Theory of Phrase Structure
+IWBS Report
+241
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Udo Pletat
+Integrating Model Theoretic and Proof Theoretic Interpretation of Logic Programs
+LILOG-Report
+36
+1988
+IBM Deutschland GmbH
+Ulrike Weiland
+Umweltbewertung mit EXCEPT: Darstellung auskologischer Sicht
+IWBS Report
+195
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Gerd Kortm
+Temporales Schlieen in einem natrlichsprachlichen System
+IWBS Report
+162
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Jim Gray
+Vera Watson
+A Shared Segment and Interprocess Communication Facility for VM/370
+IBM Research Report
+RJ1579
+May
+1975
+db/labs/ibm/RJ1579.html
+ibmTR/rj1579.pdf
+Peter H. Schmitt
+Mathematical Logic and Artificial Intelligence
+LILOG-Report
+6
+1987
+IBM Deutschland GmbH
+Stefan Brner
+Datenbankuntersttzung fr wissensbasierte Systeme
+LILOG-Report
+10
+1987
+IBM Deutschland GmbH
+Stefan Bttcher
+Attribute Inheritance Implemented on Top of a Relational Database System
+IWBS Report
+87
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Ralph Scheubrein
+Integration eines deduktiven Datenbanksystems in eine Logikprogrammiersprache
+IWBS Report
+176
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Erich Gehlen
+EFTA Query Processing in LILOG-DB
+IWBS Report
+98
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Dines Bjrner
+E. F. Codd
+Kenneth L. Deckert
+Irving L. Traiger
+The Gamma-0 n-ary Relational Data Base Interface Specifications of Objects and Operations.
+IBM Research Report
+RJ1200
+April
+1973
+db/labs/ibm/RJ1200.html
+ibmTR/rj1200.pdf
+Bart Geurts
+Natural Language Understanding in LILOG: An Intermediate Overview
+IWBS Report
+137
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Sven Lorenz
+On the Role of Reasoning about Change in the Projection of Presuppositions
+IWBS Report
+234
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Jrgen Manowsky
+Semantische Reprsentation von Plural-Phnomenen
+IWBS Report
+230
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Tibor Kiss
+Modals and the Scope of Negation, On the Treatment of Optionality in HPSG, Some Properties of Negation in German.
+IWBS Report
+194
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Sitaram Lanka
+Eric Mays
+Fully Persistent B
++
+-trees
+IWBS Report
+135
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+SQL/Data System for VSE: A Relational Data System for Application Development.
+IBM Publication
+G320-6590
+IBM Corporation, White Plains, NY
+1981
+db/labs/ibm/G320-6590.html
+ibmTR/g320-6590.pdf
+Petra Maier
+Der modale Infinitiv: Syntaktische oder lexikalische Beschreibung?
+LILOG-Report
+11
+1987
+IBM Deutschland GmbH
+Thomas Ludwig
+Modeling Structured Open Worlds in a Database System: The FLL-Approach
+IWBS Report
+149
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Brigitte Blser
+M. Wermke
+Projekt Elektronische Wrterbcher/Lexika: Abschlubericht der Definitionsphase
+IWBS Report
+145
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Esther Knig
+Der Lambek-Kalkl. Eine Logik fr lexikalische Grammatiken
+IWBS Report
+146
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Christopher Habel
+Simone Pribbenow
+Gebietskonstituierende Prozesse
+LILOG-Report
+18
+1988
+IBM Deutschland GmbH
+Ulrich Hedtstck
+Peter H. Schmitt
+A Calculus for Order-Sorted Predicate Logic with Sort Literals
+IWBS Report
+95
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Gregor Erbach
+Lexical Representation of Idioms
+IWBS Report
+169
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Stefan Bttcher
+Christoph Beierle
+Database Support for the PROTOS-L System
+IWBS Report
+71
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Udo Pletat
+Christoph Beierle
+The Semantics of Asserting and Retracting Clauses to Logic Programs
+LILOG-Report
+7
+1987
+IBM Deutschland GmbH
+Christoph Beierle
+Types, Modules and Databases in the Logic Programming Language PROTOS-L
+IWBS Report
+88
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Claudia Maienborn
+Processing Spatial Knowledge in LILOG
+IWBS Report
+157
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Karl-Hans Blsius
+Ulrich Hedtstck
+Resolution with Feature Unification
+LILOG-Report
+51
+1988
+IBM Deutschland GmbH
+Mohammed Nadjib Khenkhar
+Vorberlegungen zur depiktionalen Reprsentation rumlichen Wissens
+LILOG-Report
+19
+1988
+IBM Deutschland GmbH
+Michael Klein
+Leistungsanalyse des Datenbanksystems LILOG-DB
+IWBS Report
+198
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Stefan Bttcher
+An Inference Engine for Function Free Logic Programs
+IWBS Report
+132
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Gregor Erbach
+An Environment for Experimentation with Parsing Strategies
+IWBS Report
+167
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Rolf Mayer
+Domain Restriction and Other Kinds of Reference Set Operations in Sentence and Discourse Semantics.
+IWBS Report
+178
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Hinrich Schtze
+Pluralbehandlung in natrlichsprachlichen Wissensverabeitungssystemen
+IWBS Report
+73
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Manfred Schmidt-Schau
+Gert Smolka
+Attributive Concept Descriptions with Unions and Complements
+IWBS Report
+68
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Michael Ley
+The Term Retrieval Abstract Machine
+IWBS Report
+202
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Birgit Wesche
+Ingrid Renz
+Word Order and Focus Projection
+LILOG-Report
+13
+1987
+IBM Deutschland GmbH
+Jennifer Brundage
+Maren Kresse
+Ulrike Schwall
+Angelika Storrer
+Multiword Lexemes: A Monolingual and Contrastive Typology for NLP and MT
+IWBS Report
+232
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Peter H. Schmitt
+Eine dreiwertige Logik zur Verarbeitung partieller Information
+LILOG-Report
+27
+1987
+IBM Deutschland GmbH
+Carola Eschenbach
+ber Anstze zur Darstellung von Konzepten und Prototypen
+LILOG-Report
+34
+1988
+IBM Deutschland GmbH
+Simone Pribbenow
+Interaktion von propositionalen und bildhaften Reprsentationen
+IWBS Report
+122
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Herbert J. Leass
+Ulrike Schwall
+An Anaphora Resolution Procedure for Machine Translation
+IWBS Report
+172
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Christopher Habel
+Prozedurale Aspekte der Wegplanung und Wegbeschreibung
+LILOG-Report
+17
+1987
+IBM Deutschland GmbH
+Mechthild Rickheit
+Zum Begriff Argumentstruktur im Rahmen generativer worbildungstheoretischer Anstze
+LILOG-Report
+35
+1988
+IBM Deutschland GmbH
+Stefan J. Schierholz
+Eric Windisch
+Quantitative Analysen zu Wrterbchern
+IWBS Report
+189
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Thomas Ludwig
+Algebraical Optimization of FTA-Expressions
+LILOG-Report
+59
+1988
+IBM Deutschland GmbH
+Ulrike Rackow
+On the Treatment of Compounds in Machine Translation. A Study
+IWBS Report
+221
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Stefan Bttcher
+Improving the Concurrency of Integrity Checks and Write Operations
+IWBS Report
+134
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Birgit Wendholt
+DInG - ein Domnen-orientierter Inkrementeller und Integrierter Generator fr kohrente Texte
+IWBS Report
+237
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Simone Pribbenow
+Zur Verarbeitung von Lokalisierungsausdrcken in einem hybriden System
+IWBS Report
+211
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Christoph Beierle
+Stefan Bttcher
+PROTOS-L: Towards a Knowledge Base Programming Language
+IWBS Report
+89
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Ulrike Schwall
+LMT - Machine Translation Demonstration
+IWBS Report
+177
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Ingrid Renz
+Koordination von nichtverbalen Satzkonstituenten
+IWBS Report
+74
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Jrg Heinrich
+Ein Transaktionskonzept fr LILOG
+LILOG-Memo
+3
+1987
+IBM Deutschland GmbH
+Gert Smolka
+A Feature Logic with Subsorts
+LILOG-Report
+33
+1988
+IBM Deutschland GmbH
+Christoph Beierle
+Ulrich Hedtstck
+Udo Pletat
+Jrg H. Siekmann
+An Order Sorted Predicate Logic with Closely Coupled Taxonomic Information
+IWBS Report
+86
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Rolf Sander
+Die Reprsentation rumlichen Wissens und die Behandlung von Einbettungsproblemen mit Quadtreedepiktionen
+IWBS Report
+191
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Petra Maier
+Petra Steffens
+Zur Syntax prnominaler Elemente in einer kategorialen Unifikationsgrammatik des Deutschen
+IWBS Report
+70
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Martin Hbner
+Kai von Luck
+Ulrike Weiland
+Die Konzeption des EXCEPT-Systems: Einberblick
+IWBS Report
+130
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Markus Hhfeld
+Gert Smolka
+Definite Resolution over Constraint Languages
+LILOG-Report
+53
+1988
+IBM Deutschland GmbH
+Stefan Bttcher
+A Tool Kit for Knowledge Based Production Planning Systems
+IWBS Report
+128
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Ewald Lang
+Kai-Uwe Carstensen
+Geoffrey Simmons
+Modelling Spatial Knowledge on a Linguistic Basis
+IWBS Report
+147
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Anne Schiller
+Derivationsmorphologie in einembersetzungssystem
+IWBS Report
+235
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Lutz Voelkel
+On the Problem of Masking Special Errors by Serial Signature Analysis
+IWBS Report
+151
+1999
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Stefan Benzschawel
+Transitive Closure: New Aspects of an Old Theme
+IWBS Report
+203
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Bernhard Beckert
+Konzeption und Implementierung von Gleichheit fr einen tableau-basierten Theorem-Beweiser
+IWBS Report
+208
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Stefan J. Schierholz
+Syntaktische Informationseinheiten zu deutschen Adjektiven
+IWBS Report
+212
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Peter H. Schmitt
+Computational aspects of three-valued logic
+LILOG-Report
+26
+1987
+IBM Deutschland GmbH
+Kurt Rothermel
+An Effective Representation of Complex Clauses in a Relational Database
+LILOG-Report
+44
+1988
+IBM Deutschland GmbH
+Sai Choi Kwan
+H. Raymond Strong
+Index Path Length Evaluation for the Research Storage System of System R.
+IBM Research Report
+RJ2736
+1980
+January
+db/labs/ibm/RJ2736.html
+ibmTR/rj2736.pdf
+Ewald Lang
+Kai-Uwe Carstensen
+OSKAR - A PROLOG Programm for Modelling Dimensional Designation and Positional Variation of Objects in Space
+IWBS Report
+109
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Rudi Studer
+A Conceptual Model for Time
+LILOG-Report
+2
+1986
+IBM Deutschland GmbH
+Wolfgang Wernecke
+THOR - A System for Computing in Equational Theories
+IWBS Report
+226
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Claus-Rainer Rollinger
+Simulation Sprachlichen Verstehens: Generelle Probleme bei der semantischen Interpretation der natrlichen Sprache
+LILOG-Report
+5
+1986
+IBM Deutschland GmbH
+H. Raymond Strong
+Irving L. Traiger
+George Markowsky
+Slide Search.
+IBM Research Report
+RJ2274
+June
+1978
+db/labs/ibm/RJ2274.html
+ibmTR/rj2274.pdf
+Stefan J. Schierholz
+Der Filmded das Publikum - Zum Aufbau eines maschinenlesbaren Wrterbuchs fr deutsche Verben
+IWBS Report
+213
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Kurt Eberle
+Ereignisse: Ihre Logik und Ontologie aus textsemantischer Sicht
+IWBS Report
+192
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Egon Brger
+A Logical Operational Semantics of Full Prolog Part II: Built-in Predicates for Database Manipulations
+IWBS Report
+115
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Christoph Beierle
+Walter G. Olthoff
+Angi Vo
+Qualittssicherung durch Programmverifikation und algebraische Methoden in der Softwareentwicklung
+LILOG-Report
+42
+1988
+IBM Deutschland GmbH
+Kai-Uwe Carstensen
+WebS - ein System zur Generierung von Wegbeschreibungen
+LILOG-Memo
+11
+1988
+IBM Deutschland GmbH
+Egon Brger
+Complexity of Logical Decision Problems: An Introduction
+IWBS Report
+143
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Brigitte Blser
+Ulrike Schwall
+Angelika Storrer
+A Reusable Lexical Database Tool for Machine Translation
+IWBS Report
+231
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Egon Brger
+A Logical Operational Semantics of Full Prolog
+IWBS Report
+111
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Gisela Schpke
+Mglichkeiten des Einsatzes eines dreiwertigen Theorembeweisers
+IWBS Report
+188
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Karin Neuhold
+Ein Lernverfahren fr den automatischen Erwerb von Kontrollwissen
+IWBS Report
+207
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Kjell Johan Sb
+A Model for Discourse Particles
+LILOG-Report
+31
+1988
+IBM Deutschland GmbH
+Thomas Ludwig
+EFTA: An Algebra for Deductive Retrieval of Feature Terms
+LILOG-Report
+58
+1988
+IBM Deutschland GmbH
+Bernhard Nebel
+Christof Peltason
+Kai von Luck
+International Workshop on Terminological Logics - Proceedings
+IWBS Report
+184
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Christoph Lingenfelder
+Astrid Schmcker-Schend
+Using Knowledge-Based Methods to Administrate an Access Control System
+IWBS Report
+222
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Stefan Bttcher
+Integrating a Deductive Database System with a Warren Abstract Machine
+IWBS Report
+141
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Birgit Wesche
+Dokumentation der Syntax der LILOG-Grammatik
+LILOG-Memo
+9
+1988
+IBM Deutschland GmbH
+Christoph Beierle
+Udo Pletat
+The Algebra of Feature Graph Specifications
+IWBS Report
+94
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Adrian Mller
+ICL - An Integrity Control Language: Konzeption und Implementierung einer formalen Sprache zur Integrittskontrolle von Wissensbasen
+IWBS Report
+186
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Egon Brger
+Peter H. Schmitt
+A Formal Operational Semantics for PROLOG III: Using Dynamic Algebras
+IWBS Report
+144
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Raymond F. Boyce
+Donald D. Chamberlin
+Using a Structured English Query Language as a Data Definition Facility.
+IBM Research Report
+RJ1318
+December
+1973
+db/labs/ibm/RJ1318.html
+ibmTR/rj1318.pdf
+Thomas Ludwig
+Bernd Walter
+Michael Ley
+Albert Maier
+Erich Gehlen
+LILOG-DB: Database Support for Knowledge-Based Systems
+LILOG-Report
+56
+1988
+IBM Deutschland GmbH
+Helmar Gust
+Manfred Grothaus
+Wissensbasisverwaltung fr LILOG
+LILOG-Report
+30
+1988
+IBM Deutschland GmbH
+Thomas Ludwig
+Compilation of Complex DATALOG with Stratified Negation
+IWBS Report
+104
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Peter H. Schmitt
+Wolfgang Wernecke
+Tableau Calculus for Order Sorted Logic
+IWBS Report
+108
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Rudi Studer
+Bernd Walter
+Implementation Aspects of a Natural Language Understanding System in a Prolog/DB Environment
+LILOG-Report
+3
+1986
+IBM Deutschland GmbH
+Irving L. Traiger
+Jim Gray
+Cesare A. Galtieri
+Bruce G. Lindsay
+Transactions and Consistency in Distributed Database Systems.
+IBM Research Report
+RJ2555
+June
+1979
+db/labs/ibm/RJ2555.html
+ibmTR/rj2555.pdf
+Gosse Bouma
+LILOG Prototype I Grammar Documentation: Semantics
+LILOG-Memo
+10
+1988
+IBM Deutschland GmbH
+Christoph Beierle
+Udo Pletat
+On the Interpretation of Equality, Sorts, and Logic Programming
+LILOG-Report
+37
+1987
+IBM Deutschland GmbH
+Ulrike Weiland
+Martin Hbner
+Das Projekt EXCEPT: Expert-System for Computer-Aided Environmental Planning Tasks
+IWBS Report
+114
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Esther Knig
+How to Fit the Lambek Calculus into the Chomsky Hierarchy
+IWBS Report
+80
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Michael Ley
+Ein Fact Manager zur persistenten Speicherung variabel strukturierter komplexer Objekte
+LILOG-Report
+60
+1988
+IBM Deutschland GmbH
+Christopher Habel
+Cognitive Linguistics: The Processing of Spatial Concepts
+LILOG-Report
+45
+1988
+IBM Deutschland GmbH
+Christoph Beierle
+Jochen Drre
+Udo Pletat
+Claus-Rainer Rollinger
+Peter H. Schmitt
+Rudi Studer
+The Knowledge Representation Language L
+LILOG
+LILOG-Report
+41
+1988
+IBM Deutschland GmbH
+Roland Seiffert
+Chart-Parsing of Unification-Based Grammars with ID/LP-Rules
+LILOG-Report
+22
+1987
+IBM Deutschland GmbH
+Stefan Bttcher
+Development and Programming of Deductive Databases with PROTOS-L
+IWBS Report
+118
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Thomas Ludwig
+A Brief Overlook of LILOG-DB
+IWBS Report
+102
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Otthein Herzog
+The Institute for Knowledge Based Systems in the IBM Germany Scientific Center
+IWBS Report
+126
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Bernhard Nebel
+A Knowledge Level Analysis of Belief Revision
+IWBS Report
+69
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Bernhard Nebel
+Gert Smolka
+Representation and Reasoning with Attributive Descriptions
+IWBS Report
+81
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Jan Wilms
+Standards fr das Programmieren in Prolog fr LILOG, Version 3.3
+LILOG-Memo
+14
+1989
+IBM Deutschland GmbH
+Bernd Walter
+Datenbankkonzepte fr wissensbasierte Systeme
+IWBS Report
+151
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Volker Jantzen
+Konzeptuelles Design einer mehrsprachigen lexikalischen Datenbank fr die maschinellebersetzung
+IWBS Report
+218
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Rdiger Wirth
+Lernverfahren zur Vervollstndigung von Hornklauselmengen durch inverse Resolution
+IWBS Report
+84
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+SQL/Data System, General Information Manual.
+IBM Publication
+GH24-5012
+IBM Corporation, White Plains, NY
+1981
+db/labs/ibm/GH24-5012.html
+ibmTR/gh24-5012.pdf
+Toni Bollinger
+Udo Pletat
+The LILOG Knowledge Representation System
+IWBS Report
+156
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Rainer Buerle
+Ereignisse und Reprsentationen
+LILOG-Report
+43
+1988
+IBM Deutschland GmbH
+Kai Lebeth
+Bernd Abb
+Syntaktische Analysevorschlge zur Behandlung von lokalen Prfixverben in einem System fr die Generierung von Wegbeschreibungen
+IWBS Report
+224
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Raymond A. Lorie
+Bradford W. Wade
+The Compilation of a High Level Data Language.
+IBM Research Report
+RJ2598
+August
+1979
+db/labs/ibm/RJ2598.html
+ibmTR/rj2598.pdf
+Stefan Bayerl
+Karl-Hans Blsius
+Graph Based Extension of the LILOG Inference Engine
+IWBS Report
+229
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Karin Klabunde
+Erweiterung der Wissensreprsentationssprache L-LILOG um Konstrukte zur Spezifikation von Kontrollinformation
+IWBS Report
+92
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Jan Wilms
+Standards fr das Programmieren in Prolog fr LILOG, Version 2.0
+LILOG-Memo
+5
+1987
+IBM Deutschland GmbH
+Elke Busch
+Das Problem der VP-Ellipsen im Rahmen einer Theorie der Sachverhaltsanaphern
+IWBS Report
+123
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Thomas Ludwig
+The Design and Implementation of TLPROLOG (V. 2.0) - Intermediate Report
+IWBS Report
+103
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+E. F. Codd
+Robert S. Arnold
+Jean-Marc Cadiou
+Chin-Liang Chang
+Nick Roussopoulos
+RENDEZVOUS Version 1: An Experimental English Language Query Formulation System for Casual Users of Relational Data Bases.
+IBM Research Report
+RJ2144
+January
+1978
+db/labs/ibm/RJ2144.html
+ibmTR/rj2144.pdf
+Otthein Herzog
+Claus-Rainer Rollinger
+Peter H. Schmitt
+Petra Steffens
+Rudi Studer
+Birgit Wesche
+Brigitte Bartsch-Sprl
+F. Gnthner
+Christopher Habel
+Siegfried Kanngieer
+Christian Rohrer
+LILOG - Linguistische und logische Methoden fr das maschinelle Verstehen des Deutschen - Projektbeschreibung
+LILOG-Report
+1
+1986
+IBM Deutschland GmbH
+Thomas Pirlein
+Rekonstruktion von Hintergrundwissen fr ein wissensbasiertes textverstehendes System
+IWBS Report
+129
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Christoph Beierle
+Gregor Meyer
+Heiner Semle
+Extending the Warren Abstract Machine to Polymorphic Order-Sorted Resolution
+IWBS Report
+181
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+SQL/Data System, Conpects and Facilities.
+IBM Publication
+GH24-5013
+IBM Corporation, White Plains, NY
+1981
+db/labs/ibm/GH24-5013.html
+ibmTR/gh24-5013.pdf
+Reiner Hhnle
+Bernhard Beckert
+Stefan Gerberding
+Werner Kernig
+The Many-Valued Theorem Prover
+3
+T
+A
+P.
+IWBS Report
+227
+1992
+IBM Germany Science Center, Institute for Knowledge Bas
+ed Systems
+Petra Ludewig
+Incremental Vocabulary Extensions in Text Understanding Systems
+IWBS Report
+152
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Christoph Beierle
+Udo Pletat
+Semantics of Logic Programs with Equational Abstract Data Type Specifications
+LILOG-Report
+38
+1988
+IBM Deutschland GmbH
+Karl Dotzek
+Strategien zur Pronominalisierung
+IWBS Report
+110
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Albert Maier
+Michael Ley
+Erich Gehlen
+Sort Processing in a Deductive Database System
+IWBS Report
+154
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Petra Schulz
+Untersuchungen zum Grundwortschatz
+IWBS Report
+164
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Helmar Gust
+Petra Ludewig
+Mechthild Rickheit
+Die Struktur des Lexikons fr LILOG
+LILOG-Report
+29
+1988
+IBM Deutschland GmbH
+Karl Schlechta
+Results on Non-Monotonic Logics.
+IWBS Report
+204
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Mechthild Rickheit
+Wortbedeutungen und lexikalische Reprsentationen
+IWBS Report
+127
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Uwe Reyle
+Zeit und Aspekt bei der Verarbeitung natrlicher Sprachen
+LILOG-Report
+9
+1987
+IBM Deutschland GmbH
+Claudia Mrotzek
+Parenthetische Konstruktionen des Deutschen.
+IWBS Report
+199
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Stefan Brner
+Rudi Studer
+An Approach to Manage Large Inheritance Networks
+LILOG-Report
+8
+1987
+IBM Deutschland GmbH
+Kurt Eberle
+Eine Prolog-Theorie fr zeitliche Beziehungen zwischen Ereignissen
+LILOG-Report
+14
+1987
+IBM Deutschland GmbH
+Jochen Drre
+William C. Rounds
+On Subsumption and Semiunifaction in Feature Algebras
+IWBS Report
+97
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Gregor Meyer
+Christoph Beierle
+Ralph Scheubrein
+Persistente Datenspeicherung in einer logischen Programmiersprache mit relationalen und deduktiven Datenbanken
+IWBS Report
+219
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Roland Seiffert
+Esther Knig
+Prolog and Natural Language Processing
+IWBS Report
+209
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Sonja Mller
+Zur Systematik morphologischer Paradigmen: Die deutschen Verben in der Computermorphologie
+IWBS Report
+217
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Christos Garidis
+Logisches Clustering von PROTOS-L Prozeduren
+LILOG-Report
+50
+1988
+IBM Deutschland GmbH
+Stefan J. Schierholz
+Syntaktische Merkmale deutsche Substantive
+IWBS Report
+214
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Michael Tarnowski
+Mathematische Grundlagen der formalen Linguistik - Ein Kompendium
+IWBS Report
+174
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Ipke Wachsmuth
+Zur intelligenten Organisation von Wissensbestnden in knstlichen Systemen
+IWBS Report
+91
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Thomas Ludwig
+FLL: A First-Order Language for Deductive Retrieval of Feature Terms
+LILOG-Report
+57
+1988
+IBM Deutschland GmbH
+Christoph Beierle
+Ulrich Hedtstck
+Udo Pletat
+Peter H. Schmitt
+Jrg H. Siekmann
+An Order-Sorted Logic for Knowledge Representation Systems
+IWBS Report
+113
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Michael Ley
+Bernd Walter
+Der LILOG-DB Fact Manager: Ein Datenbankkern zur Speicherung variabel strukturierter komplexer Objekte
+IWBS Report
+107
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Rob A. van der Sandt
+Bart Geurts
+Presupposition, Anaphora, and Lexical Content
+IWBS Report
+185
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Wilfried Htker
+Petra Ludewig
+Ein neuer Ansatz zur Integration unterschiedlicher lexikalischer Resourcen
+IWBS Report
+196
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Anja Theuner
+Dictionary Dialog - Entwurf des Funktionsumfangs fr eine Benutzerschnittstelle eines integrierten maschinellen/maschinenuntersttztenbersetzungssystems und prototypische Erstellung der Bildschirmfolge fr die Funktion Semantische Relation
+IWBS Report
+220
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Klaus Rehkmper
+Mentale Bilder und Wegbedeutungen
+LILOG-Report
+20
+1987
+IBM Deutschland GmbH
+Tibor Kiss
+Variable Subkategorisierung: Eine Theorie unpersnlicher Einbettungen im Deutschen
+IWBS Report
+161
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Jochen Drre
+Weiterentwicklung des
+Earley-Algorithmus fr kontextfreie und ID/LP-Grammatiken
+LILOG-Report
+28
+1987
+IBM Deutschland GmbH
+Claudia Maienborn
+Position und Bewegung: Zur Semantik lokaler Verben
+IWBS Report
+138
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Karel Oliva
+Expressing Linguistic Knowledge in STUF '91
+IWBS Report
+206
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Ipke Wachsmuth
+On Structuring Domain-Specific Knowledge
+LILOG-Report
+12
+1987
+IBM Deutschland GmbH
+Gnther Grz
+Verarbeitung natrlicher Sprache
+IWBS Report
+66
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Jean-Yves Lerner
+Ulrich Schatz
+Die Sloppy/Referenzielle Ambiguitt: Bildungssyntax oder Diskursreprsentationstheorie?
+LILOG-Report
+32
+1988
+IBM Deutschland GmbH
+Christoph Beierle
+Udo Pletat
+Feature Graphs and Abstract Data Types: A Unifying Approach
+LILOG-Report
+39
+1988
+IBM Deutschland GmbH
+Ulrike Rackow
+Ido Dagan
+Ulrike Schwall
+A Combined Symbolic-Empirical Apprach for the Automatic Translation of Compounds
+IWBS Report
+225
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Oliver Wauschkuhn
+Untersuchung zur verteilten Produktionsplanung mit Methoden der logischen Programmierung
+IWBS Report
+215
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Eric Mays
+Sitaram Lanka
+Robert Dionne
+Robert A. Weida
+A Persistent Store for Large Shared Knowledge Bases
+IWBS Report
+133
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Albert Maier
+Sort-Lattice Management in LILOG-DB
+IWBS Report
+99
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Michael Tarnowski
+Mathematische Grundlagen der formalen Linguistik - Ein Kompendium
+IWBS Report
+121
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Birgit Wesche
+At Ease with AT
+LILOG-Report
+23
+1987
+IBM Deutschland GmbH
+Christoph Beierle
+Egon Brger
+Correctness Proof for the WAM
+IWBS Report
+205
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Nikolaus Ott
+Statistische Untersuchungen an einsprachigen Zeitungstexten
+IWBS Report
+233
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Josef Gemander
+Verarbeitung von Vagheits- und Unsicherheitsbewertungen: Tools fr das Testen von Anstzen fr die Unifikation und die Logikbehandlung von mit Unsicherheit und Vagheit bewerteten Graphen im L-LILOG-STUF-Graphenkonzept
+LILOG-Memo
+12
+1988
+IBM Deutschland GmbH
+Michael Herweg
+Mohammed Nadjib Khenkhar
+Simone Pribbenow
+Klaus Rehkmper
+Elsa-Wanderung fr Linguisten: Exemplarische Analyse und Reprsentation eines Satzes aus einer Reisebeschreibung
+LILOG-Memo
+8
+1988
+IBM Deutschland GmbH
+Elisabeth Neugebauer
+Richtungsangabe oder Wegkonnektor? Rmliches Zurck und seine Semantik
+IWBS Report
+210
+1992
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Udo Pletat
+Modularizing Knowledge in LILOG
+IWBS Report
+173
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Noam Paz
+ber Vergleichskonstruktionen
+IWBS Report
+96
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Christoph Beierle
+Stefan Bttcher
+Gregor Meyer
+Draft Report of the Logic Programming Language PROTOS-L
+IWBS Report
+175
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Gregor Erbach
+Syntactic Processing of Unknown Words
+IWBS Report
+131
+1990
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Udo Pletat
+Kai von Luck
+Knowledge Representation in LILOG
+IWBS Report
+90
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Bernd I. Dahn
+Theodor Lettmann
+Wolfgang Schnfeld
+ILFA Interface Concept
+IWBS Report
+193
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Gert Smolka
+Feature Constraint Logics for Unification Grammars
+IWBS Report
+93
+1989
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Hans-Joachim Goltz
+Ein praktischer Algorithmus fr die E-Unifikation
+IWBS Report
+166
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+Thomas Ludwig
+Stefan Benzschawel
+Erich Gehlen
+Differential Closure Computation for General Horn-Clause Queries
+IWBS Report
+201
+1991
+IBM Germany Science Center, Institute for Knowledge Based Systems
+David Beech
+Cetin Ozbutun
+Object Oriented DBMS as a Generalization of Relational DBMS
+ANSI X3H2
+X3H2-90-412
+1990
+db/systems/sqlPapers.html#X3H2-90-412
+SQL/X3H2-90-412.pdf
+db/systems/X3H2-90-412.html
+Phil Shaw
+Modification of User Defined Types
+ANSI X3H2
+X3H2-90-292
+1990
+db/systems/sqlPapers.ht
+ml#X3H2-90-292
+SQL/X3H2-90-292.pdf
+db/systems/X3H2-90-292.html
+Jim Melton
+Jonathan Bauer
+Krishna G. Kulkarni
+Object ADTs (with improvements for Value ADTs)
+ANSI X3H2
+DBL:ARL-029 X3H2-91-083rev1
+April
+1991
+db/systems/sqlPapers.html#X3H2-91-083rev1
+SQL/X3H2-91-083rev1.pdf
+db/systems/X3H2-91-083rev1.html
+David Beech
+Unification of Value and Object ADTs
+ANSI X3H2
+X3H2-92-062
+1992
+db/systems/sqlPapers.html#X3H2-92-062
+Krishna G. Kulkarni
+Jim Melton
+Jonathan Bauer
+Mike Kelley
+Inheritance for ADTs (revised)
+ANSI X2H2
+DBL:KAW-006 X3H2-91-133rev1
+July
+1991
+db/systems/sqlPapers.html#X3H2-91-133rev1
+SQL/x3h2-91-133rev1.pdf
+db/systems/X3H2-91-133rev1.html
+db/labs/gte/TR-0310-11-95-165.html
+Frank Manola
+Integrating Object-Oriented Applications and Middleware with Relational Databases.
+GTE Laboratories Incorporated
+TR-0310-11-95-165
+November
+1995
+db/labs/gte/index.html#TR-0310-11-95-165
+GTE/MANO95.pdf
+db/labs/gte/TM-0149-06-89-165.html
+Frank Manola
+Object Model Capabilities For Distributed Object Management.
+GTE Laboratories Incorporated
+TM-0149-06-89-165
+June
+1989
+db/labs/gte/index.html#TM-0149-06-89-165
+GTE/MANO89a.pdf
+db/labs/gte/TR-0146-06-91-165.html
+Alejandro P. Buchmann
+M. Tamerzsu
+Dimitrios Georgakopoulos
+Towards a Transaction Management System for DOM.
+GTE Laboratories Incorporated
+TR-0146-06-91-165
+June
+1991
+db/labs/gte/index.html#TR-0146-06-91-165
+GTE/BUCH91.pdf
+db/labs/gte/TR-0174-12-91-165.html
+Mark F. Hornick
+Joe D. Morrison
+Farshad Nayeri
+Integrating Heterogeneous, Autonomous, Distributed Applications Using the DOM Prototype.
+GTE Laboratories Incorporated
+TR-0174-12-91-165
+December
+1991
+db/labs/gte/index.html#TR-0174-12-91-165
+GTE/HORN91.pdf
+db/labs/gte/TR-0169-12-91-165.html
+Frank Manola
+Object Data Language Facilities for Multimedia Data Types.
+GTE Laboratories Incorporated
+TR-0169-12-91-165
+December
+1991
+db/labs/gte/index.html#TR-0169-12-91-165
+GTE/MANO91a.pdf
+db/labs/gte/TR-0236-09-93-165.html
+Farshad Nayeri
+Benjamin Hurwitz
+Experiments with Dispatching in a Distributed Object System.
+GTE Laboratories Incorporated
+TR-0236-09-93-165
+July
+1993
+db/labs/gte/index.html#TR-0236-09-93-165
+GTE/NAYE93c.pdf
+db/labs/gte/TR-0263-08-94-165.html
+Frank Manola
+An Evaluation of Object-Oriented DBMS Developments: 1994 Edition.
+GTE Laboratories Incorporated
+TR-0263-08-94-165
+August
+1994
+db/labs/gte/index.html#TR-0263-08-94-165
+GTE/MANO94a.pdf
+db/labs/gte/TR-0244-12-93-165.html
+Frank Manola
+MetaObject Protocol Concepts for a RISC Object Model.
+GTE Laboratories Incorporated
+TR-0244-12-93-165
+December
+1993
+db/labs/gte/index.html#TR-0244-12-93-165
+GTE/MANO93d.pdf
+db/labs/gte/TR-0231-08-93-165.html
+Frank Manola
+Sandra Heiler
+A 'RISC' Object Model for Object System Interoperation: Concepts and Applications.
+GTE Laboratories Incorporated
+TR-0231-08-93-165
+August
+1993
+db/labs/gte/index.html#TR-0231-08-93-165
+GTE/MANO93c.pdf
+db/labs/gte/TM-0014-06-88-165.html
+Frank Manola
+Distributed Object Management Technology.
+GTE Laboratories Incorporated
+TM-0014-06-88-165
+June
+1988
+db/labs/gte/index.html#TM-0014-06-88-165
+GTE/MANO88.pdf
+db/labs/gte/TM-0332-11-90-165.html
+Frank Manola
+Mark F. Hornick
+Alejandro P. Buchmann
+Object Data Model Facilities for Multimedia Data Types.
+GTE Laboratories Incorporated
+TM-0332-11-90-165
+December
+1990
+db/labs/gte/index.html#TM-0332-11-90-165
+GTE/MANO90b.pdf
+Michael J. Carey
+Modeling and Evaluation of Database Concurrency Control Algorithms
+1983
+College of Engineering, University of California, Berkeley
+Leo Mark
+Self-Describing Database Systems - Formalization and Realization
+1985
+University of Maryland, Department of Computer Science, College Park, MD
+Robert Kooi
+The Optimization of Queries in Relational Databases.
+1980
+September
+Case Western Reserve University
+Goetz Graefe
+Rule-Based Query Optimization in Extensible Database Systems
+1987
+Univ. of Wisconsin-Madison
+Joseph M. Hellerstein
+Optimization and Execution Techniques for Queries With Expensive Methods
+1995
+Univ. of Wisconsin-Madison
+Michael J. Franklin
+Caching and Memory Management in Client-Server Database Systems
+1993
+Univ. of Wisconsin-Madison
+Edsger W. Dijkstra
+Communication with an Automatic Computer
+1959
+Excelsior
+University of Amsterdam
+http://www.cs.utexas.edu/users/EWD/PhDthesis/PhDthesis.PDF
+Martin Necask
+Conceptual modeling for XML.
+2009
+Praha, Univ. Karlova
+1-153
+978-3-89838-499-5
+http://d-nb.info/991311825
+Jan Ittner
+Software assisted tailoring of process descriptions.
+2008
+University of Erlangen-Nuremberg
+1-226
+978-3-8364-6710-0
+http://d-nb.info/987892932
+Helmut W. Jung
+Qualittsorientierte Integration technischer, pdagogisch-didaktischer undkonomischer Systemkomponenten zur nachhaltigen Implementierung technologiegesttzter Bildungsservices.
+2005
+University of Braunschweig - Institute of Technology
+1-152
+http://opus.tu-bs.de/opus/volltexte/2005/684/index.html
+http://opus.tu-bs.de/opus/volltexte/2005/684/index.html
+urn:nbn:de:gbv:084-6846
+http://d-nb.info/974178209
+Florian Raisch
+Aktive Konturen zur Objektsegmentierung in star
+k verrauschten Bildsequenzen und zur Segmentierung von Bonddrhten in der industriellen Bildverarbeitung.
+2004
+University of Mannheim
+1-129
+3-8322-3330-X
+http://d-nb.info/972877436
+Najeeb A. Abdulmutalib
+Language models and smoothing methods for information retrieval.
+2010
+University of Duisburg-Essen
+http://duepublico.uni-duisburg-essen.de/servlets/DerivateServlet/Derivate-25462/
+http://duepublico.uni-duisburg-essen.de/servlets/DerivateServlet/Derivate-25462/
+urn:nbn:de:hbz:464-20101104-134123-7
+http://d-nb.info/1010149326
+Jrg Benze
+HelpDesk-Systeme der Telekommunikationsbranche: der Weg zum aktiven Infrastrukturmanagement.
+2007
+Ilmenau University of Technology
+1-166
+978-3-8364-1411-1
+http://d-nb.info/984162275
+Michael Khler
+Rapid (Mobile) E-Learning-Content-Development: Konzeption und Entwicklung des Rapid-E-Learning-Content-Development-Tools FLOG (Flash Learning Objects Generator) zur Erstellung und Verwaltung von wiederverwendbaren Lernobjekten fr mobile Endgerte und PCs.
+2009
+University of Cologne
+http://kups.ub.uni-koeln.de/volltexte/2010/3124/index.html
+http://kups.ub.uni-koeln.de/volltexte/2010/3124/index.html
+urn:nbn:de:hbz:38-31244
+http://d-nb.info/1007834706
+Ralf Huuck
+Software verification for programmable logic controllers.
+2003
+University of Kiel
+1-188
+http://e-diss.uni-kiel.de/diss_726/index.htm
+http://e-diss.uni-kiel.de/diss_726/index.htm
+urn:nbn:de:gbv:8-diss-7260
+http://d-nb.info/97159550X
+Alexander Christoph
+Automatische Transformation von Software-Modellen.
+2005
+Karlsruhe Institute of Technology
+1-135
+3-8334-3655-7
+http://d-nb.info/977166775
+Pavol Svaba
+Covers and Logarithmic Signatures of Finite Groups in Cryptography.
+2011
+University of Duisburg-Essen
+http://duepublico.uni-duisburg-essen.de/servlets/DocumentServlet?id=25967
+http://duepublico.uni-duisburg-essen.de/servlets/DocumentServlet?id=25967
+urn:nbn:de:hbz:464-20110822-072743-7
+http://d-nb.info/1015428282
+Stefan-Philipp Zimmermann
+Entscheidung unter MOOSy: Konzeption, prototypische Implementierung und exemplarische Anwendung eines objektorientierten Modellmanagementsystems zur Untersttzung diskreter Simulation.
+2004
+University of Freiburg
+1-217
+3-631-51484-0
+http://d-nb.info/97010393X
+Mario Zhlke
+Verteilt organisierte Mehrteilnehmer-Videokonferenzen fr geschlossene Gruppen im Internet.
+2004
+Brandenburg University of Technology
+1-224
+http://www.ub.tu-cottbus.de/hss/diss/fak1/zuehlke_m/pdf/diss_zuehlke.pdf
+http://www.ub.tu-cottbus.de/hss/diss/fak1/zuehlke_m/pdf/diss_zuehlke.pdf
+urn:nbn:de:kobv:co1-000000540
+http://d-nb.info/972173994
+Marc Strickert
+Self-organizing neural networks for sequence processing.
+2005
+University of Osnabrck
+1-125
+http://elib.ub.uni-osnabrueck.de/publications/diss/html/E-Diss384_HTML.html
+http://elib.ub.uni-osnabrueck.de/publications/diss/html/E-Diss384_HTML.html
+urn:nbn:de:gbv:700-2005012711
+http://d-nb.info/974193690
+Arno Eigenwillig
+Real root isolation for exact and approximate polynomials using Descartes' rule of signs.
+2008
+Saarland University
+http://scidok.sulb.uni-saarland.de/volltexte/2010/3244/
+http://scidok.sulb.uni-saarland.de/volltexte/2010/3244/
+urn:nbn:de:bsz:291-scidok-32445
+http://d-nb.info/1005305412
+Florian Schmidt-Weigand
+Designing text and visualizations in multimedia learning: how to overcome split attention effects?
+2007
+Justus Liebig University Giessen
+1-125
+978-3-8364-3288-7
+http://d-nb.info/986313645
+Tim Kaulmann
+Ressourceneffiziente Realisierung pulscodierter neuronaler Netze.
+2009
+University of Paderborn
+1-194
+978-3-939350-85-9
+http://ubdok.uni-paderborn.de/servlets/DerivateServlet/Derivate-11544/Dissertation_Kaulmann.pdf
+http://ubdok.uni-paderborn.de/servlets/DerivateServlet/Derivate-11544/Dissertation_Kaulmann.pdf
+urn:nbn:de:hbz:466-20091104012
+http://d-nb.info/999142364
+Andreas Pommert
+Simulationsstudien zur Untersuchung der Bildqualitt fr die 3D-Visualisierung tomografischer Volumendaten.
+2004
+University of Hamburg
+1-169
+3-8334-1585-1
+http://d-nb.info/972435778
+Danail Traskov
+Network Coding for the Multiple Access Layer.
+2010
+Technical University Munich
+1-122
+978-3-86853-703-1
+http://www.dr.hut-verlag.de/978-3-86853-703-1.html
+http://www.dr.hut-verlag.de/978-3-86853-703-1.html
+urn:nbn:de:101:1-201101114541
+http://d-nb.info/1009485326
+Florian Stallmann
+A model-driven approach to multi-agent system design.
+2008
+University of Paderborn
+1-344
+http://ubdok.uni-paderborn.de/servlets/DerivateServlet/Derivate-10190/Thesis%20-%20Florian%20Stallmann.pdf
+http://ubdok.uni-paderborn.de/servlets/DerivateServlet/Derivate-10190/Thesis%20-%20Florian%20Stallmann.pdf
+urn:nbn:de:hbz:466-20090514258
+http://d-nb.info/99459187X
+ngel del Ro Fernndez
+Advanced techniques for the visualization of 3D medical datasets.
+2006
+Eberhard Karls University of Tbingen
+1-147
+http://w210.ub.uni-tuebingen.de/dbt/volltexte/2006/2284/index.html
+http://w210.ub.uni-tuebingen.de/dbt/volltexte/2006/2284/index.html
+urn:nbn:de:bsz:21-opus-22844
+http://d-nb.info/979596165
+Peter Tandler
+Synchronous collaboration in the age of ubiquitous computing: requirements, application models, software architecture.
+2008
+Darmstadt University of Technology
+1-258
+978-3-8364-3397-6
+http://d-nb.info/989592812
+Alexander Hasenfu
+Topographic mapping of dissimilarity datasets.
+2009
+Clausthal University of Technology
+1-112
+978-3-940394-83-5
+http://www.gbv.de/dms/clausthal/E_DISS/2009/db109472.pdf
+http://www.gbv.de/dms/clausthal/E_DISS/2009/db109472.pdf
+urn:nbn:de:gbv:104-1094728
+http://d-nb.info/997448334
+Andreas Hess
+Protecting communication infrastructures against attacks with programmable networking technology.
+2008
+Berlin Institute of Technology
+http://opus.kobv.de/tuberlin/volltexte/2008/1923/
+http://opus.kobv.de/tuber
+lin/volltexte/2008/1923/
+urn:nbn:de:kobv:83-opus-19234
+http://d-nb.info/99004131X
+Muhammad Saquib Sarfraz
+Towards automatic face recognition in unconstrained ccenarios.
+2008
+Berlin Institute of Technology
+http://opus.kobv.de/tuberlin/volltexte/2009/2068/
+http://opus.kobv.de/tuberlin/volltexte/2009/2068/
+urn:nbn:de:kobv:83-opus-20689
+http://d-nb.info/993853668
+Johannes Zeintl
+Optimizing application driven multimodality spatio-temporal emission imaging.
+2011
+University of Erlangen-Nuremberg
+1-140
+http://www.opus.ub.uni-erlangen.de/opus/volltexte/2011/2316/
+http://www.opus.ub.uni-erlangen.de/opus/volltexte/2011/2316/
+urn:nbn:de:bvb:29-opus-23168
+http://d-nb.info/1010729594
+Dominik Frhlich
+Object-oriented development for reconfigurable architectures.
+2001
+Freiberg University of Mining and Technology
+1-273
+https://fridolin.tu-freiberg.de/archiv/html/InformatikFrXXhlichDominik80246.html
+https://fridolin.tu-freiberg.de/archiv/html/InformatikFrXXhlichDominik80246.html
+urn:nbn:de:bsz:105-802464
+http://d-nb.info/985417900
+Jrgen te Vrugt
+A dynamic multi-application dialog engine for task-oriented voice user interfaces.
+2007
+Saarland University
+1-258
+http://scidok.sulb.uni-saarland.de/volltexte/2007/1135/
+http://scidok.sulb.uni-saarland.de/volltexte/2007/1135/
+urn:nbn:de:bsz:291-scidok-11350
+http://d-nb.info/984597840
+Christoph Schulz
+Transformation objektorientierter Systeme basierend auf algebraischen Graph-Transformationen.
+2010
+Berlin Institute of Technology
+http://opus.kobv.de/tuberlin/volltexte/2010/2674/
+http://opus.kobv.de/tuberlin/volltexte/2010/2674/
+urn:nbn:de:kobv:83-opus-26749
+http://d-nb.info/100598459X
+Evangelos Karatsiolis
+Flexible certificate management in public key infrastructures.
+2007
+Darmstadt University of Technology
+1-146
+http://elib.tu-darmstadt.de/diss/000878
+http://elib.tu-darmstadt.de/diss/000878
+urn:nbn:de:tuda-tuprints-8781
+http://d-nb.info/986026239
+Mark Mller
+Analyzing software quality assurance strategies through simulation: development and empirical validation of a simulation model in an industrial software product line organization.
+2007
+University of Kaiserslautern
+1-243
+978-3-8167-7269-9
+http://d-nb.info/983414998
+Daniel Klnder
+Entwurf eingebetteter Software mit abstrakten Zustandsmaschinen und Business Object Notation.
+2009
+RWTH Aachen University
+1-131
+kart.
+http://darwin.bth.rwth-aachen.de/opus3/volltexte/2009/2714/
+http://darwin.bth.rwth-aachen.de/opus3/volltexte/2009/2714/
+urn:nbn:de:hbz:82-opus-27148
+http://d-nb.info/1000112519
+Daniel Gull
+Beitrge zur Untersttzung von IT-Sourcing-Entscheidungen.
+2010
+University of Augsburg
+1-115
+http://opus.bibliothek.uni-augsburg.de/volltexte/2010/1590/
+http://opus.bibliothek.uni-augsburg.de/volltexte/2010/1590/
+urn:nbn:de:bvb:384-opus-15901
+http://d-nb.info/1006159290
+Matthew Smith
+Security for service-oriented on-demand grid computing.
+2008
+University of Marburg
+http://archiv.ub.uni-marburg.de/diss/z2008/0918/
+http://archiv.ub.uni-marburg.de/diss/z2008/0918/
+urn:nbn:de:hebis:04-z2008-09180
+http://d-nb.info/992169089
+Elke Tetzner
+Nutzerfreundliche Modellierung mit hybriden Systemen zur symbolischen Simulation in CLP.
+2008
+University of Rostock
+1-278
+http://rosdok.uni-rostock.de/file/rosdok_derivate_000000003796/Dissertation_Tetzner_2009.pdf
+http://rosdok.uni-rostock.de/file/rosdok_derivate_000000003796/Dissertation_Tetzner_2009.pdf
+urn:nbn:de:gbv:28-diss2009-0057-3
+http://d-nb.info/993978975
+Maria Sagrebin-Mitzel
+Detektion, Verfolgung und Entfernungsschtzung von Objekten in Robot-Vision Systemen mittels Online Adaption von Modellen.
+2011
+University of Duisburg-Essen
+1-178
+http://duepublico.uni-duisburg-essen.de/servlets/DocumentServlet?id=24751
+http://duepublico.uni-duisburg-essen.de/servlets/DocumentServlet?id=24751
+urn:nbn:de:hbz:464-20110427-103146-1
+http://d-nb.info/1015207510
+Jrgen Peter Schulze-Dbold
+Interactive volume rendering in virtual environments.
+2003
+University of Stuttgart
+1-157
+http://elib.uni-stuttgart.de/opus/volltexte/2003/1466/index.html
+http://elib.uni-stuttgart.de/opus/volltexte/2003/1466/index.html
+urn:nbn:de:bsz:93-opus-14663
+http://d-nb.info/968816770
+Michael Kleis
+CSP, cooperative service provisioning using peer-to-peer principles.
+2009
+Technical University Munich
+1-180
+3-937201-05-X
+http://mediatum2.ub.tum.de/node?id=676625
+http://mediatum2.ub.tum.de/node?id=676625
+urn:nbn:de:bvb:91-diss-20081020-676625-1-0
+http://d-nb.info/999943871
+Diana Poensgen
+Facets of online optimization: online dial-a-ride problems and dynamic configuration of all-optical networks.
+2003
+Berlin Institute of Technology
+1-264
+3-89873-919-8
+http://d-nb.info/969630123
+Fadi Chabarek
+Interaktive Vervollstndigung von Szenariospezifikationen.
+2011
+Berlin Institute of Technology
+http://opus.kobv.de/tuberlin/volltexte/2011/3142/
+http://opus.kobv.de/tuberlin/volltexte/2011/3142/
+urn:nbn:de:kobv:83-opus-31428
+http://d-nb.info/1014946476
+Vasilios Darlagiannis
+Overlay network mechanisms for Peer-to-Peer systems.
+2006
+Darmstadt University of Technology
+1-191
+http://elib.tu-darmstadt.de/diss/000699
+http://elib.tu-darmstadt.de/diss/000699
+urn:nbn:de:tuda-tuprints-6998
+http://d-nb.info/97996850X
+Felix Weigel
+Structural summaries as a core technology for efficient XML retrieval.
+2006
+Ludwig Maximilians University Munich
+http://edoc.ub.uni-muenchen.de/archive/00006259/
+http://edoc.ub.uni-muenchen.de/archive/00006259/
+urn:nbn:de:bvb:19-62594
+http://d-nb.info/982638604
+Stephan Recker
+Resource management for virtual network structures in multi-service networks.
+2004
+University of Duisburg-Essen
+1-173
+3-8322-3319-9
+http://d-nb.info/972683097
+Leonie Schfer
+Investigatio
+ns on digital storytelling: the development of a reference model.
+2005
+Berlin Institute of Technology
+http://d-nb.info/979190045
+Jessica Rubart
+Think shared: modellbasierte und komponentenorientierte Untersttzung wissensintensiver Kooperationen.
+2005
+FernUniversitt in Hagen
+1-287
+3-89825-966-8
+http://d-nb.info/975003984
+Michael Wessel
+Flexible und konfigurierbare Software-Architekturen fr datenintensive ontologiebasierte Informationssysteme.
+2009
+Hamburg University of Technology
+1-598
+978-3-8325-2162-2
+http://doku.b.tu-harburg.de/volltexte/2010/919/
+http://doku.b.tu-harburg.de/volltexte/2010/919/
+urn:nbn:de:gbv:830-tubdok-9192
+http://d-nb.info/1006517111
+Peter Sties
+Ein Verfahren zur modellbasierten Entwicklung von multimedialen Informations- und Kommunikationsdiensten.
+2005
+Technical University Munich
+1-167
+3-8334-2287-4
+http://d-nb.info/973619597
+Daniel Lohmann
+Aspect-awareness in the development of configurable system software.
+2008
+University of Erlangen-Nuremberg
+1-260
+http://www.opus.ub.uni-erlangen.de/opus/volltexte/2009/1328/
+http://www.opus.ub.uni-erlangen.de/opus/volltexte/2009/1328/
+urn:nbn:de:bvb:29-opus-13285
+http://d-nb.info/994417357
+David Kreische
+Geschftsprozessmodellierung mit der Unified Modeling Language (UML).
+2004
+University of Erlangen-Nuremberg
+1-140
+http://www.opus.ub.uni-erlangen.de/opus/volltexte/2004/98/index.html
+http://www.opus.ub.uni-erlangen.de/opus/volltexte/2004/98/index.html
+urn:nbn:de:bvb:29-opus-982
+http://d-nb.info/972544232
+George N. Kamucha
+A non-invasive registration technique in hip-joint replacement surgery using laser radar imaging.
+2003
+University of Kassel
+1-128
+3-89958-054-0
+http://www.upress.uni-kassel.de/abstracts_fr/3-89958-054-0.html
+http://www.upress.uni-kassel.de/abstracts_fr/3-89958-054-0.html
+urn:nbn:de:0002-0549
+http://d-nb.info/970519281
+Lenka Fibkov
+Provable secure scalable block ciphers.
+2003
+University of Duisburg-Essen
+1-139
+http://miless.uni-essen.de/servlets/DerivateServlet/Derivate-11879/Thesis.pdf
+http://miless.uni-essen.de/servlets/DerivateServlet/Derivate-11879/Thesis.pdf
+urn:nbn:de:hbz:465-miless-011106-9
+http://d-nb.info/971192898
+Albrecht Melan
+N-dimensionale Merkmalsgewinnung durch vektorielle Dimensionen am Beispiel von Farbbildern und weiteren Anwendungen.
+2006
+University of Stuttgart
+1-118
+3-930683-57-1
+http://d-nb.info/980583004
+Aleksej Spenst
+A user centric QoS management system for wireless home networks.
+2009
+Saarland University
+http://scidok.sulb.uni-saarland.de/volltexte/2009/2629/
+http://scidok.sulb.uni-saarland.de/volltexte/2009/2629/
+urn:nbn:de:bsz:291-scidok-26297
+http://d-nb.info/999301497
+Michael Janneck
+Gebrauchstaugliche didaktische Software: Entwicklungsprozess, Didaktik, Gestaltungsprinzipien.
+2006
+University of Hamburg
+http://www.sub.uni-hamburg.de/opus/volltexte/2006/2827/index.html
+http://www.sub.uni-hamburg.de/opus/volltexte/2006/2827/index.html
+urn:nbn:de:gbv:18-28271
+http://d-nb.info/979082110
+Shiping Yang
+Towards living cooperative information systems for virtual organizations: based on peers, founded in living systems theory.
+2006
+Ludwig Maximilians University Munich
+1-236
+978-3-86624-194-7
+http://d-nb.info/982258062
+Michael A. Jaeger
+Self-managing publish/subscribe systems.
+2007
+Berlin Institute of Technology
+http://opus.kobv.de/tuberlin/volltexte/2008/1724/
+http://opus.kobv.de/tuberlin/volltexte/2008/1724/
+urn:nbn:de:kobv:83-opus-17240
+http://d-nb.info/987330993
+Bixia Wu
+Entwurf und Verifikation von Petrinetzmodellen verteilter Algorithmen durch Verfeinerung unverteilter Algorithmen.
+2007
+Humboldt University of Berlin
+1-237
+http://edoc.hu-berlin.de/docviews/abstract.php?lang=gerid=28034
+http://edoc.hu-berlin.de/docviews/abstract.php?lang=gerid=28034
+urn:nbn:de:kobv:11-10078908
+http://d-nb.info/985379324
+Stephan Kluth
+Quantitative modeling and analysis with FMC-QE.
+2011
+University of Potsdam
+http://opus.kobv.de/ubp/volltexte/2011/5298/
+http://opus.kobv.de/ubp/volltexte/2011/5298/
+urn:nbn:de:kobv:517-opus-52987
+http://d-nb.info/1014619114
+Michael Schmidt
+Foundations of SPARQL query optimization.
+2010
+University of Freiburg
+http://www.freidok.uni-freiburg.de/volltexte/7148/
+http://www.freidok.uni-freiburg.de/volltexte/7148/
+urn:nbn:de:bsz:25-opus-71483
+http://d-nb.info/999810677
+Natascha Hoebel
+User interests and behavior on the web: measurements and framing strategies.
+2011
+Goethe University Frankfurt am Main
+http://d-nb.info/1016041268
+Nadine Shanthi Perera
+CLIoS: Cross-Lingual Induction of Speech Recognition Grammars for the Localization of Spoken Dialog Systems.
+2010
+Ludwig Maximilians University Munich
+1-
+978-3-86853-570-9
+http://www.dr.hut-verlag.de/978-3-86853-570-9.html
+http://www.dr.hut-verlag.de/978-3-86853-570-9.html
+urn:nbn:de:101:1-201009212748
+http://d-nb.info/1007134747
+Andreas Voss
+Dominantes Design im Electronic Commerce: Analysen und Befunde bei Tourismus-Web-Sites.
+2004
+University of Mnster
+1-260
+3-89936-293-4
+http://d-nb.info/973129077
+Robert Bssow
+Model checking combined Z and statechart specifications.
+2003
+Berlin Institute of Technology
+http://edocs.tu-berlin.de/diss/2003/buessow_robert.htm
+http://edocs.tu-berlin.de/diss/2003/buessow_robert.htm
+urn:nbn:de:kobv:83-opus-5300
+http://d-nb.info/969489188
+Nikolay Sorokin
+An FPGA-based 3D backprojector.
+2004
+Saarland University
+1-179
+http://scidok.sulb.uni-saarland.de/volltexte/2004/238/index.html
+http://scidok.sulb.uni-saarland.de/volltexte/2004/238/index.html
+urn:nbn:de:bsz:291-scidok-2384
+http://d-nb.info/972318712
+Robert Barsch
+Web-based technology for storage and processi
+ng of multi-component data in seismology: first steps towards a new design.
+2009
+Ludwig Maximilians University Munich
+1-
+http://edoc.ub.uni-muenchen.de/11043/
+http://edoc.ub.uni-muenchen.de/11043/
+urn:nbn:de:bvb:19-110434
+http://d-nb.info/100173761X
+Thomas Zahn
+Structured peer-to-peer services for mobile ad hoc networks.
+2006
+Free University of Berlin
+1-129
+http://www.diss.fu-berlin.de/2006/471/index.html
+http://www.diss.fu-berlin.de/2006/471/index.html
+urn:nbn:de:kobv:188-fudissthesis000000002307-3
+http://d-nb.info/981893589
+Matthias Goebl
+Eine realzeitfhige Architektur zur Integration kognitiver Funktionen.
+2009
+Technical University Munich
+1-171
+978-3-86853-166-4
+http://mediatum2.ub.tum.de/doc/795552/document.pdf
+http://mediatum2.ub.tum.de/doc/795552/document.pdf
+urn:nbn:de:bvb:91-diss-20090731-795552-1-3
+http://d-nb.info/996054251
+Steffen Wolf
+Optimization problems in self-organizing networks.
+2010
+University of Kaiserslautern
+1-259
+978-3-8325-2661-0
+http://d-nb.info/1008091014
+Till Bovermann
+Tangible auditory interfaces: combining auditory displays and tangible interfaces.
+2009
+Bielefeld University
+http://bieson.ub.uni-bielefeld.de/volltexte/2010/1664/index.html
+http://bieson.ub.uni-bielefeld.de/volltexte/2010/1664/index.html
+urn:nbn:de:hbz:361-16643
+http://d-nb.info/1002796946
+Yu Yi
+Fuzzy operator trees for modeling utility functions.
+2008
+University of Marburg
+1-166
+http://archiv.ub.uni-marburg.de/diss/z2008/0915/
+http://archiv.ub.uni-marburg.de/diss/z2008/0915/
+urn:nbn:de:hebis:04-z2008-09159
+http://d-nb.info/992151112
+Andreas Gerndt
+Methoden des parallelen Postprocessing numerischer Strmungssimulationsdaten fr die echtzeitfhige Visualisierung und Interaktion in VR-basierten Arbeitsumgebungen.
+2006
+RWTH Aachen University
+1-130
+http://darwin.bth.rwth-aachen.de/opus/volltexte/2006/1425/index.html
+http://darwin.bth.rwth-aachen.de/opus/volltexte/2006/1425/index.html
+urn:nbn:de:hbz:82-opus-14254
+http://d-nb.info/979086450
+Jrgen Rckert
+Ausfhrbare Dialogmodelle fr reichhaltige und kontextabhngige Benutzungsschnittstellen.
+2011
+Heidelberg University
+1-380
+978-3-86853-873-1
+http://www.dr.hut-verlag.de/978-3-86853-873-1.html
+http://www.dr.hut-verlag.de/978-3-86853-873-1.html
+urn:nbn:de:101:1-201105031514
+http://d-nb.info/1011441985
+Jlia Zappe
+Towards a mobile temporal logic of actions.
+2005
+Ludwig Maximilians University Munich
+1-138
+http://edoc.ub.uni-muenchen.de/archive/00005203/
+http://edoc.ub.uni-muenchen.de/archive/00005203/
+urn:nbn:de:bvb:19-52039
+http://d-nb.info/97964237X
+Changtao Qu
+Towards the standard-oriented E-learning: an RDF-based E-learning content management P2P infrastructure and some enabling technologies.
+2004
+University of Hanover
+http://edok01.tib.uni-hannover.de/edoks/e01dh04/394886232.pdf
+http://edok01.tib.uni-hannover.de/edoks/e01dh04/394886232.pdf
+urn:nbn:de:gbv:089-3948862329
+http://d-nb.info/973162244
+Juan JosBurred
+From sparse models to timbre learning: new methods for musical source separation.
+2009
+Berlin Institute of Technology
+http://opus.kobv.de/tuberlin/volltexte/2009/2166/
+http://opus.kobv.de/tuberlin/volltexte/2009/2166/
+urn:nbn:de:kobv:83-opus-21661
+http://d-nb.info/993387195
+Uwe Dannowski
+Towards fast and portable microkernels.
+2008
+Karlsruhe Institute of Technology
+http://digbib.ubka.uni-karlsruhe.de/volltexte/documents/144208
+http://digbib.ubka.uni-karlsruhe.de/volltexte/documents/144208
+urn:nbn:de:swb:90-75585
+http://d-nb.info/987808079
+Karin Quaas
+Kleene-Schtzenberger and Bchi theorems for weighted timed automata.
+2010
+University of Leipzig
+1-123
+978-3-8325-2500-2
+http://nbn-resolving.de/urn:nbn:de:bsz:15-qucosa-38791
+http://nbn-resolving.de/urn:nbn:de:bsz:15-qucosa-38791
+urn:nbn:de:bsz:15-qucosa-38791
+http://d-nb.info/100734959X
+Markus Wolff
+Geovisual methods and techniques for the development of three-dimensional tactical intelligence assessments.
+2010
+University of Potsdam
+1-136
+http://opus.kobv.de/ubp/volltexte/2011/5044/
+http://opus.kobv.de/ubp/volltexte/2011/5044/
+urn:nbn:de:kobv:517-opus-50446
+http://d-nb.info/1013289722
+Michael Schlundt
+Historienverwaltung in Workflow-Management-Systemen.
+2004
+University of Erlangen-Nuremberg
+1-232
+3-8322-3555-8
+http://d-nb.info/973351985
+Daniel Kstner
+Retargetable postpass optimisation by integer linear programming.
+2004
+Saarland University
+http://scidok.sulb.uni-saarland.de/volltexte/2004/199/index.html
+http://scidok.sulb.uni-saarland.de/volltexte/2004/199/index.html
+urn:nbn:de:bsz:291-scidok-1994
+http://d-nb.info/972330917
+Jochen Kreimer
+Adaptive Erkennung von Software-Entwurfsmngeln.
+2005
+University of Paderborn
+1-179
+http://ubdata.uni-paderborn.de/ediss/17/2006/kreimer/
+http://ubdata.uni-paderborn.de/ediss/17/2006/kreimer/
+urn:nbn:de:hbz:466-2007021615
+http://d-nb.info/983248826
+Christian Schlegel
+Navigation and execution for mobile robots in dynamic environments: an integrated approach.
+2004
+University of Ulm
+1-280
+http://d-nb.info/971733333
+Roland Steidle
+Multimedia-Assistenten im Betrieb: datenschutzrechtliche Anforderungen, rechtliche Regelungs- und technische Gestaltungsvorschlge fr mobile Agentensysteme.
+2005
+University of Kassel
+1-441
+3-8350-0079-9
+http://d-nb.info/975284371
+Ingo Ltkebohle
+Coordination and composition patterns in the Curious Robot scenario.
+2011
+Bielefeld University
+http://pub.uni-bielefeld.de/publication/2337736
+http://pub.uni-bielefeld.de/publication/2337736
+urn:nbn:de:hbz:361-23377360
+http://d-nb.info/1015096476
+Martin Peter Bauer
+Observing physical world events through a distributed world model.
+2007
+University of Stuttgart
+http:
+//elib.uni-stuttgart.de/opus/volltexte/2007/3043/
+http://elib.uni-stuttgart.de/opus/volltexte/2007/3043/
+urn:nbn:de:bsz:93-opus-30437
+http://d-nb.info/984255338
+Bernhard Fechner
+Transiente Fehler in Mikroprozessoren: Mechanismen zur Erkennung, Behebung und Tolerierung.
+2009
+FernUniversitt in Hagen
+1-265
+978-3-8348-0714-4
+http://d-nb.info/990301346
+Paul Linder
+Constraintbasierte Testdatenermittlung fr Automatisierungssoftware auf Grundlage von Signalflussplnen.
+2008
+University of Stuttgart
+1-146
+978-3-8322-7369-9
+http://elib.uni-stuttgart.de/opus/volltexte/2008/3587/
+http://elib.uni-stuttgart.de/opus/volltexte/2008/3587/
+urn:nbn:de:bsz:93-opus-35871
+http://d-nb.info/997172878
+Marc Spaniol
+Informatische Methoden zur Untersttzung von Transkription, Lokalisierung und Adressierung in kulturwissenschaftlichen Communities.
+2007
+RWTH Aachen University
+1-203
+http://darwin.bth.rwth-aachen.de/opus3/volltexte/2007/1981/
+http://darwin.bth.rwth-aachen.de/opus3/volltexte/2007/1981/
+urn:nbn:de:hbz:82-opus-19814
+http://d-nb.info/985546344
+Jrg Zimmermann
+Interaktive Ad-hoc-Evaluation von Desktopsoftware durch Endbenutzer: eine explorative Studie.
+2008
+University of Rostock
+http://rosdok.uni-rostock.de/file/rosdok_derivate_000000003753/Dissertation_Zimmermann_2008.pdf
+http://rosdok.uni-rostock.de/file/rosdok_derivate_000000003753/Dissertation_Zimmermann_2008.pdf
+urn:nbn:de:gbv:28-diss2009-0037-2
+http://d-nb.info/993351123
+Stefan Bntert
+Gottesdienste im Internet: Perspektiven eines Dialogs zwischen Internet und Liturgie.
+2005
+University of Mnster
+1-334
+3-17-018874-7
+http://d-nb.info/974998168
+Bjrn Blohsfeld
+Online-Aggregationber Datenstrmen mit Verfahren der mathematischen Statistik in grossen Datenbanksystemen.
+2003
+University of Marburg
+1-165
+http://archiv.ub.uni-marburg.de/diss/z2002/0290/
+http://archiv.ub.uni-marburg.de/diss/z2002/0290/
+urn:nbn:de:hebis:04-z2002-02907
+http://d-nb.info/972781455
+Kendy Kutzner
+The decentralized file system Igor-FS as an application for overlay-networks.
+2008
+Karlsruhe Institute of Technology
+http://digbib.ubka.uni-karlsruhe.de/volltexte/documents/530404
+http://digbib.ubka.uni-karlsruhe.de/volltexte/documents/530404
+urn:nbn:de:swb:90-96684
+http://d-nb.info/991928512
+Karsten Rink
+Locally Adaptive Speed Functions for Level Set Methods in Image Segmentation.
+2009
+Otto von Guericke University Magdeburg
+1-120
+978-3-86853-174-9
+http://www.dr.hut-verlag.de/978-3-86853-174-9.html
+http://www.dr.hut-verlag.de/978-3-86853-174-9.html
+urn:nbn:de:101:1-200911262486
+http://d-nb.info/998603473
+Michael Balda
+Quantitative Computed Tomography.
+2011
+University of Erlangen-Nuremberg
+http://www.opus.ub.uni-erlangen.de/opus/volltexte/2011/2884/
+http://www.opus.ub.uni-erlangen.de/opus/volltexte/2011/2884/
+urn:nbn:de:bvb:29-opus-28842
+http://d-nb.info/1016569017
+Ricarda Dormeyer
+Syntaxanalyse auf der Basis der Dependenzgrammatik.
+2004
+University of Erlangen-Nuremberg
+1-195
+3-8325-0723-X
+http://d-nb.info/972859756
+Markus Garschhammer
+Dienstgtebehandlung im Dienstlebenszyklus: von der formalen Spezifikation zur rechnergesttzten Umsetzung.
+2004
+Ludwig Maximilians University Munich
+1-203
+3-89963-146-3
+http://edoc.ub.uni-muenchen.de/archive/00003463/
+http://edoc.ub.uni-muenchen.de/archive/00003463/
+urn:nbn:de:bvb:19-34637
+http://d-nb.info/974454982
+Philipp Meier
+Agentenkomponenten: ein komponenten-orientierter Ansatz zur (grafischen) Entwicklung von Multi-Agenten-Systemen.
+2006
+Ludwig Maximilians University Munich
+1-227
+3-89975-588-X
+http://d-nb.info/978876938
+Ralf Schrder
+SDL-Datenkonzepte - Analyse und Verbesserungen.
+2003
+Humboldt University of Berlin
+1-142
+http://dochost.rz.hu-berlin.de/dissertationen/schroeder-ralf-2003-03-26/
+http://dochost.rz.hu-berlin.de/dissertationen/schroeder-ralf-2003-03-26/
+urn:nbn:de:kobv:11-10019888
+http://d-nb.info/969065582
+Markus Brameier
+On linear genetic programming.
+2005
+Dortmund University of Technology
+1-260
+http://hdl.handle.net/2003/20098
+http://hdl.handle.net/2003/20098
+urn:nbn:de:101:1-201105055710
+http://d-nb.info/1011533146
+Marius Kloft
+lp-Norm Multiple Kernel Learning.
+2011
+Berlin Institute of Technology
+http://opus.kobv.de/tuberlin/volltexte/2011/3239/
+http://opus.kobv.de/tuberlin/volltexte/2011/3239/
+urn:nbn:de:kobv:83-opus-32396
+http://d-nb.info/1016533497
+Michael Keckeisen
+Physical cloth simulation and applications for the visualization, virtual try-on and interactive design of garments.
+2005
+Eberhard Karls University of Tbingen
+1-116
+http://w210.ub.uni-tuebingen.de/dbt/volltexte/2005/1717/index.html
+http://w210.ub.uni-tuebingen.de/dbt/volltexte/2005/1717/index.html
+urn:nbn:de:bsz:21-opus-17174
+http://d-nb.info/97495294X
+Matthias Korch
+Eingebettete Runge-Kutta-Verfahren fr parallele Rechnersysteme: effiziente Implementierung durch Ausnutzung der Speicherzugriffslokalitt.
+2008
+University of Bayreuth
+1-272
+978-3-8364-9140-2
+http://d-nb.info/988858061
+Patryk Burek
+Ontology of functions: a domain independent framework for modeling functions.
+2006
+University of Leipzig
+1-240
+http://d-nb.info/986797804
+Yi Yang
+A framework for decision support systems adapted to uncertain knowledge.
+2007
+Karlsruhe Institute of Technology
+http://digbib.ubka.uni-karlsruhe.de/volltexte/documents/4964
+http://digbib.ubka.uni-karlsruhe.de/volltexte/documents/4964
+urn:nbn:de:swb:90-71702
+http://d-nb.info/985823720
+Alexander Roth
+Spezifikation und Entwicklung universitrer Lern- und Arbeitsumgebungen.
+2008
+University of Paderborn
+1-289
+978-3-8322-7942-4
+http://ubdok.uni-paderborn.de/servlets/DerivateServlet/Derivate-8134/Dissertation_Alexander_Roth.pdf
+http://ubdok.uni-paderbor
+n.de/servlets/DerivateServlet/Derivate-8134/Dissertation_Alexander_Roth.pdf
+urn:nbn:de:hbz:466-20081126018
+http://d-nb.info/991585798
+Bernd Crouse
+Lattice-Boltzmann-Strmungssimulationen auf Baumdatenstrukturen.
+2003
+Technical University Munich
+1-167
+http://tumb1.biblio.tu-muenchen.de/publ/diss/bv/2003/crouse.html
+http://tumb1.biblio.tu-muenchen.de/publ/diss/bv/2003/crouse.html
+urn:nbn:de:bvb:91-diss2003121100467
+http://d-nb.info/970226225
+Oliver Hhn
+Performance modelling for distributed transaction processing systems.
+2010
+Technical University Munich
+1-162
+978-3-86844-276-2
+http://d-nb.info/1006692150
+Edin Andelic
+Sparse nonlinear discriminants.
+2007
+Otto von Guericke University Magdeburg
+1-103
+http://diglib.uni-magdeburg.de/Dissertationen/2007/ediandelic.htm
+http://diglib.uni-magdeburg.de/Dissertationen/2007/ediandelic.htm
+urn:nbn:de:101:1-201010182234
+http://d-nb.info/987575368
+Martin Huber
+Combining specification methods for distributed systems.
+1999
+Karlsruhe Institute of Technology
+http://digbib.ubka.uni-karlsruhe.de/volltexte/24199
+http://digbib.ubka.uni-karlsruhe.de/volltexte/24199
+urn:nbn:de:swb:90-AAA241998
+http://d-nb.info/1007712945
+Andreas Baudry
+Ein Modell zur strukturellen Beschreibung von formatierbaren Lernmodulen fr die orthogonale Konstruktion konsistenter Lerneinheiten.
+2006
+University of Paderborn
+1-212
+http://ubdata.uni-paderborn.de/ediss/14/2006/baudry/disserta.pdf
+http://ubdata.uni-paderborn.de/ediss/14/2006/baudry/disserta.pdf
+urn:nbn:de:hbz:466-2006010116
+http://d-nb.info/980106982
+Gnter Graw
+Korrekte Steuerungssoftware.
+2010
+Dortmund University of Technology
+http://eldorado.tu-dortmund.de:8080/handle/2003/27247
+http://eldorado.tu-dortmund.de:8080/handle/2003/27247
+urn:nbn:de:hbz:290-2003/27247-7
+http://d-nb.info/1005455376
+Matthias Kranz
+Engineering perceptive user interfaces.
+2008
+Ludwig Maximilians University Munich
+1-190
+http://d-nb.info/991945417
+Inna Mikhailova
+Internal control for autonomous open-ended acquisition of new behaviors.
+2009
+Bielefeld University
+http://bieson.ub.uni-bielefeld.de/volltexte/2009/1549/index.html
+http://bieson.ub.uni-bielefeld.de/volltexte/2009/1549/index.html
+urn:nbn:de:hbz:361-15493
+http://d-nb.info/997334207
+Thomas Willhalm
+Engineering shortest paths and layout algorithms for large graphs.
+2005
+Karlsruhe Institute of Technology
+1-130
+http://digbib.ubka.uni-karlsruhe.de/volltexte/1000003385
+http://digbib.ubka.uni-karlsruhe.de/volltexte/1000003385
+urn:nbn:de:swb:90-33855
+http://d-nb.info/1001618556
+Susanne Frey
+Three-dimensional facial measurement by portrait holography and texture based focus detection.
+2005
+Heinrich Heine University Dsseldorf
+1-110
+http://diss.ub.uni-duesseldorf.de/ebib/diss/show?dissid=1166
+http://diss.ub.uni-duesseldorf.de/ebib/diss/show?dissid=1166
+urn:nbn:de:hbz:061-20050715-001166-4
+http://d-nb.info/975975625
+Reinhard Werner Lafrenz
+Perzeption, Umweltmodellierung und Aktionsplanung in einem Team kooperativer, autonomer mobiler Roboter.
+2007
+University of Stuttgart
+1-184
+978-3-8325-1753-3
+http://d-nb.info/986952109
+Barbara Helga Talle
+Neuronale Fusionsarchitekturen in der audio-visuellen Sprachverarbeitung.
+2003
+University of Ulm
+http://vts.uni-ulm.de/docs/2003/2645/vts_2645.pdf
+http://vts.uni-ulm.de/docs/2003/2645/vts_2645.pdf
+urn:nbn:de:bsz:289-vts-26456
+http://d-nb.info/1015354521
+Oliver Bender
+Robust machine translation for multi-domain tasks.
+2010
+RWTH Aachen University
+1-141
+http://darwin.bth.rwth-aachen.de/opus3/volltexte/2010/3406/
+http://darwin.bth.rwth-aachen.de/opus3/volltexte/2010/3406/
+urn:nbn:de:hbz:82-opus-34068
+http://d-nb.info/1010757962
+Marco Lohmann
+Online QoS, Revenue Management for Third Generation Mobile Communication Networks.
+2004
+Dortmund University of Technology
+http://hdl.handle.net/2003/2543
+http://hdl.handle.net/2003/2543
+urn:nbn:de:101:1-201105055110
+http://d-nb.info/1011532115
+Johannes Pellenz
+Aktive Sensorik fr autonome mobile Systeme.
+2011
+University of Koblenz-Landau
+1-224
+978-3-86247-192-8
+http://d-nb.info/1017632006
+Stefan Behnel
+A model driven architecture for adaptable overlay networks.
+2007
+Darmstadt University of Technology
+1-196
+http://elib.tu-darmstadt.de/diss/000864
+http://elib.tu-darmstadt.de/diss/000864
+urn:nbn:de:tuda-tuprints-8647
+http://d-nb.info/98538820X
+Thomas Goldschmidt
+View-based textual modelling.
+2011
+Karlsruhe Institute of Technology
+1-376
+978-3-86644-642-7
+http://d-nb.info/1011918110
+Xin Li
+The Kiel Esterel processor: a multi-threaded reactive processor.
+2007
+University of Kiel
+1-185
+http://eldiss.uni-kiel.de/macau/receive/dissertation_diss_00002198
+http://eldiss.uni-kiel.de/macau/receive/dissertation_diss_00002198
+urn:nbn:de:gbv:8-diss-21983
+http://d-nb.info/1002624398
+Antje Nowack
+Abstract state machines: verification problems and computational power.
+2004
+RWTH Aachen University
+1-181
+http://sylvester.bth.rwth-aachen.de/dissertationen/2004/201/index.htm
+http://sylvester.bth.rwth-aachen.de/dissertationen/2004/201/index.htm
+urn:nbn:de:hbz:82-opus-9383
+http://d-nb.info/972767908
+Dominikus Heckmann
+Ubiquitous user modeling.
+2006
+Saarland University
+1-268
+978-3-89838-297-7
+http://scidok.sulb.uni-saarland.de/volltexte/2006/493/index.html
+http://scidok.sulb.uni-saarland.de/volltexte/2006/493/index.html
+urn:nbn:de:bsz:291-scidok-4938
+http://d-nb.info/978586085
+Bernhard Thurm
+Dienstbasiertes Management von Telekommunikationsnetzen: theoretischer Hintergrund und praktische Anwendung.
+2004
+Karlsruhe Institute of Technology
+1-245
+3-8325-0755-8
+http://d-nb.info/973127104
+Oliver Kutter
+Visual computing for computer assisted interventions.
+2010
+Technical University Munich
+http://mediatum2.ub.tum.de/node?id=966995
+http://mediatum2.ub.tum.de/node?id=966995
+urn:nbn:de:bvb:91-diss-20100628-966995-1-3
+http://d-nb.info/1008200174
+Stefan Ihmor
+Modeling and automated synthesis of reconfigurable interfaces.
+2006
+University of Paderborn
+1-226
+978-3-939350-24-8
+http://ubdata.uni-paderborn.de/ediss/17/2006/ihmor/
+http://ubdata.uni-paderborn.de/ediss/17/2006/ihmor/
+urn:nbn:de:hbz:466-2007021939
+http://d-nb.info/98328363X
+Uwe Zimmermann
+Komponentenbasierte Softwarekonfiguration von eingebetteten Systemen.
+2005
+Karlsruhe Institute of Technology
+1-204
+3-8325-0859-7
+http://d-nb.info/974963127
+Heiko Mantel
+A uniform framework for the formal specification and verification of information flow security.
+2004
+Saarland University
+1-275
+http://scidok.sulb.uni-saarland.de/volltexte/2004/202/index.html
+http://scidok.sulb.uni-saarland.de/volltexte/2004/202/index.html
+urn:nbn:de:bsz:291-scidok-2024
+http://d-nb.info/972318364
+Lyndon J. B. Nixon
+SWeMPs: a semantic web-enabled multimedia presentation system.
+2006
+Free University of Berlin
+1-192
+http://www.diss.fu-berlin.de/2007/96/index.html
+http://www.diss.fu-berlin.de/2007/96/index.html
+urn:nbn:de:kobv:188-fudissthesis000000002701-6
+http://d-nb.info/984201300
+Norbert Oster
+Automatische Generierung optimaler struktureller Testdaten fr objekt-orientierte Software mittels multi-objektiver Metaheuristiken.
+2007
+University of Erlangen-Nuremberg
+1-283
+kart.
+http://d-nb.info/984955208
+Florian Liekweg
+Automatische Speicherverwaltung mit Regionen.
+2007
+Karlsruhe Institute of Technology
+http://digbib.ubka.uni-karlsruhe.de/volltexte/documents/2572
+http://digbib.ubka.uni-karlsruhe.de/volltexte/documents/2572
+urn:nbn:de:swb:90-63168
+http://d-nb.info/986937363
+Annabel de la Torre Cevallos
+Adaptive Verfahren zur Lastkontrolle im Internet.
+2004
+Karlsruhe Institute of Technology
+1-140
+http://digbib.ubka.uni-karlsruhe.de/volltexte/1322004
+http://digbib.ubka.uni-karlsruhe.de/volltexte/1322004
+urn:nbn:de:swb:90-AAA13220042
+http://d-nb.info/1005502781
+Susanne Kindiger
+Zum reformpdagogischen Potential des Einsatzes Neuer Medien in der Lehre am Beispiel des Projekts TeleStudent.
+2005
+Berlin Institute of Technology
+http://edocs.tu-berlin.de/diss/2005/kindiger_susanne.htm
+http://edocs.tu-berlin.de/diss/2005/kindiger_susanne.htm
+urn:nbn:de:kobv:83-opus-10019
+http://d-nb.info/975874217
+Jan Rittinger
+Constructing a relational query optimizer for non-relational languages.
+2010
+Eberhard Karls University of Tbingen
+http://tobias-lib.uni-tuebingen.de/volltexte/2011/5585/
+http://tobias-lib.uni-tuebingen.de/volltexte/2011/5585/
+urn:nbn:de:bsz:21-opus-55852
+http://d-nb.info/1011393948
+Thomas Maier-Komor
+Methoden der Metaprogrammierung zur Rekonfiguration von Software eingebetteter Systeme.
+2006
+Technical University Munich
+1-139
+978-3-89963-470-9
+http://mediatum2.ub.tum.de/doc/613984/document.pdf
+http://mediatum2.ub.tum.de/doc/613984/document.pdf
+urn:nbn:de:bvb:91-diss-20061221-613984-0-6
+http://d-nb.info/985109394
+Karsten Hlscher
+Autonomous units as a rule based concept for the modeling of autonomous and cooperating process.
+2008
+University of Bremen
+1-180
+978-3-8325-2090-8
+http://d-nb.info/992076374
+Thomas Annen
+Efficient shadow map filtering.
+2008
+Saarland University
+http://scidok.sulb.uni-saarland.de/volltexte/2009/2121/
+http://scidok.sulb.uni-saarland.de/volltexte/2009/2121/
+urn:nbn:de:bsz:291-scidok-21212
+http://d-nb.info/996237852
+Michael Kruppa
+Migrating characters: effective user guidance in instrumented environments.
+2007
+Saarland University
+1-197
+978-3-89838-301-1
+http://scidok.sulb.uni-saarland.de/volltexte/2007/1267/
+http://scidok.sulb.uni-saarland.de/volltexte/2007/1267/
+urn:nbn:de:bsz:291-scidok-12670
+http://d-nb.info/985574305
+Abed Alzoobi
+Objektorientierte Modellierung der Kosten in Hochbauprojekten.
+2003
+Brandenburg University of Technology
+1-151
+http://www.ub.tu-cottbus.de/hss/diss/fak2/alzoobi_a/pdf/diss_alzoobi.pdf
+http://www.ub.tu-cottbus.de/hss/diss/fak2/alzoobi_a/pdf/diss_alzoobi.pdf
+urn:nbn:de:kobv:co1-000000460
+http://d-nb.info/971064881
+Atila Kaya
+A logic-based approach to multimedia interpretation.
+2010
+Hamburg University of Technology
+1-197
+978-3-86664-940-8
+http://doku.b.tu-harburg.de/volltexte/2011/1093/
+http://doku.b.tu-harburg.de/volltexte/2011/1093/
+urn:nbn:de:gbv:830-tubdok-10932
+http://d-nb.info/1011439832
+Sascha Mller
+Modellbasierte IT-Untersttzung von wissensintensiven Prozessen: dargestellt am Beispiel medizinischer Forschungsprozesse.
+2007
+University of Erlangen-Nuremberg
+1-251
+http://www.opus.ub.uni-erlangen.de/opus/volltexte/2007/545/index.html
+http://www.opus.ub.uni-erlangen.de/opus/volltexte/2007/545/index.html
+urn:nbn:de:bvb:29-opus-5452
+http://d-nb.info/983345260
+Karl-Heinz Pennemann
+Development of correct graph transformation systems.
+2009
+Carl von Ossietzky University of Oldenburg
+1-177
+http://oops.uni-oldenburg.de/volltexte/2009/948/
+http://oops.uni-oldenburg.de/volltexte/2009/948/
+urn:nbn:de:gbv:715-oops-9483
+http://d-nb.info/997456841
+Sebastian Nowozin
+Learning with structured data: applications to computer vision.
+2009
+Berlin Institute of Technology
+http://opus.kobv.de/tuberlin/volltexte/2009/2476/
+http://opus.kobv.de/tuberlin/volltexte/2009/2476/
+urn:nbn:de:kobv:83-opus-24768
+http://d-nb.info/99991071X
+Carsten Huth
+Groupware-basiertes Ad-hoc-Workflow-Management: das GroupProcess-System: Konzeption und prototypische Implementierung einer Collaboration on Demand-Lsung zur Untersttzung von schwach strukturierten Prozessen in 
+Unternehmen.
+2004
+University of Paderborn
+http://ubdata.uni-paderborn.de/ediss/05/2004/huth/
+http://ubdata.u

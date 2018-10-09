@@ -58,6 +58,11 @@ main(int argc, char const *argv[])
     
     int *C = calloc(SIGMA, sizeof(int));
     int **Occ = malloc(sizeof(int *) * SIGMA);
+    /* 
+     * Occ table will be initialise to the size of block size (i.e., 512)
+     * *********************************************** explained in futil.h
+     * to avoid using too much of the memory
+	 */
 	for (i = 0; i < SIGMA; i++)
     	Occ[i] = calloc(sizeof(int) * BLOCK_SIZE, sizeof(int));
     if (f_size > MIN_FSIZE_TO_BE_STORED)
@@ -69,7 +74,7 @@ main(int argc, char const *argv[])
     	is_write = 0;
     }
 
-    generate_table(C, Occ, enf, idfw);						  // idf need to be closed
+    generate_table(C, Occ, enf, idfw);			// idf need to be closed
     fclose(idfw);
 
 /* debug info */
@@ -121,18 +126,9 @@ for (int l = 0; l < SIGMA; l++)
 			fseek(enf, offset-1, SEEK_SET);
 			c = fgetc(enf);
 			if (is_write)
-			{
-				//offset = C[c] + next_occ(Occ, c, offset-1) + 1;
 				offset = C[c] + extract_occ(c, offset-1, enf, idfr) + 1;
-				//printf("%d: %d\n", offset-1, next_occ(Occ, c, offset-1)==extract_occ(c, offset-1, enf, idfr));
-			}
 			else
 				offset = C[c] + next_occ(Occ, c, offset-1) + 1;
-
-				// printf("'%c' in %d\n", c, offset-1);
-				// printf("%d\n", next_occ(Occ, c, offset-1)==extract_occ(c, offset-1, enf, idfr));				
-				// printf("%d ", next_occ(Occ, c, offset-1));
-				// printf("%d\n", extract_occ(c, offset-1, enf, idfr));
 
 			if (c == delim)
 			{
@@ -168,7 +164,12 @@ for (int l = 0; l < SIGMA; l++)
 		c = P[p - 1];
 		First = C[c] + 1;
 
-		if (C[c] != 0)
+		if (C[c] == 0)
+			if (strcmp(option, "-a") == 0)
+				;//printf("\n");
+			else
+				printf("0\n");
+		else
 		{
 		    int *delim_rank = malloc(num_delim * sizeof(int));
 	    	fread(delim_rank, num_delim, sizeof(int), auf);
@@ -196,11 +197,11 @@ for (int l = 0; l < SIGMA; l++)
 		        i--;
 		    }
 
-		    if (strcmp(option, "-m") == 0)		// gives the number of all matching records
-		    {
+		    if (strcmp(option, "-m") == 0)
+		    {	// gives the number of all matching records
 
 		    	if (Last < First)
-		        	;//printf("0\n");
+		        	;//printf("\n");
 		    	else
 		        	printf("%d\n", Last-First+1);
 		    }
@@ -246,9 +247,9 @@ for (int l = 0; l < SIGMA; l++)
 				    }
 
 				    result = rmdup(records, k);
-					if (strcmp(option, "-n") == 0)		// gives the number of unique matching records
+					if (strcmp(option, "-n") == 0)	// gives the number of unique matching records
 						printf("%d\n", result);
-					else								// gives the result of appearing records
+					else							// gives the result of appearing records
 					{
 						qsort(records, k, sizeof(int), cmper);
 						for (j = 0; j < k; j++)
@@ -266,7 +267,6 @@ for (int l = 0; l < SIGMA; l++)
 	fclose(idfr);
     fclose(enf);
     fclose(auf);
-    //flush(C, Occ, f_size);
 
     /* freeing buffers */
     free(au_path);

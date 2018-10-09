@@ -20,7 +20,7 @@ int get_f_size(FILE *fp)
 /*
  * pass file_path into function
  * write c_table and occ_table out
- * need to be freed in main - call flush
+ * need to be freed in main - <del>call flush</del>
  */
 void generate_table(int *C, int **Occ, FILE *enf, FILE *idf)
 {
