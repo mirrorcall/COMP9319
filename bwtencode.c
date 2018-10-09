@@ -18,109 +18,15 @@ struct _delim_status
 
 typedef struct _delim_status ds;
 
+
 int  struct_rank(int N, char delim, int *rank);
 int  struct_rank_50(int begin, int end, int *rank, int half);
 void swap(int *x, int *y);
 void q3sort(int *rank, int lo, int hi, int d);
-int  f_cmper(const void *a, const void *b);
 int  ds_cmper(const void *a, const void *b);
-int  delcmp(char *x, int x_idx, char *y, int y_idx)
-{
-	while (*x && (*x == *y))
-	{
-		x++;
-		y++;
+int  delcmp(char *x, int x_idx, char *y, int y_idx);
+void merge_files(FILE *rf1, int N1, FILE *rf2, int N2, FILE *wf);
 
-		if (*x == delimiter)
-			return (x_idx - y_idx);
-	}
-
-	if (*x == delimiter)
-	{
-		if (*y == delimiter)
-			return (x_idx - y_idx);
-		else
-			return -1;
-	}
-	else
-	{
-		if (*y == delimiter)
-			return (x_idx < y_idx);
-		else
-			return (*x - *y);
-	}
-
-	return strcmp(x, y);
-}
-void merge_files(FILE *rf1, int N1, FILE *rf2, int N2, FILE *wf)
-{
-	int num1, num2;
-	int i, j;
-	i = j = 0;
-	fread(&num1, sizeof(int), 1, rf1);
-	fread(&num2, sizeof(int), 1, rf2);
-
-	while ((i < N1) && (j < N2))
-	{
-		if (buffer[num1] == delimiter)
-		{
-			fwrite(&num1, sizeof(int), 1, wf);
-			fread(&num1, sizeof(int), 1, rf1);
-			i++;
-			continue;
-		}
-		if (buffer[num2] == delimiter)
-		{
-			fwrite(&num2, sizeof(int), 1, wf);
-			fread(&num2, sizeof(int), 1, rf2);
-			j++;
-			continue;
-		}
-
-		if (buffer[num1] < buffer[num2])
-		{
-			fwrite(&num1, sizeof(int), 1, wf);
-			i++;
-			fread(&num1, sizeof(int), 1, rf1);
-		}
-		else if (buffer[num1] > buffer[num2])
-		{
-			fwrite(&num2, sizeof(int), 1, wf);
-			j++;
-			fread(&num2, sizeof(int), 1, rf2);
-		}
-		else
-		{
-			int cmp = delcmp(&buffer[num1], num1, &buffer[num2], num2);
-			if (cmp < 0)
-			{
-				fwrite(&num1, sizeof(int), 1, wf);
-				i++;
-				fread(&num1, sizeof(int), 1, rf1);
-			}
-			else
-			{					
-				fwrite(&num2, sizeof(int), 1, wf);
-				j++;
-				fread(&num2, sizeof(int), 1, rf2);
-			}
-		}
-	}
-
-	while (i < N1)
-	{
-		fwrite(&num1, sizeof(int), 1, wf);		
-		fread(&num1, sizeof(int), 1, rf1);
-		i++;
-	}
-
-	while (j < N2)
-	{
-		fwrite(&num2, sizeof(int), 1, wf);		
-		fread(&num2, sizeof(int), 1, rf2);
-		j++;
-	}
-}
 
 int 
 main(int argc, char const *argv[])
@@ -265,10 +171,7 @@ main(int argc, char const *argv[])
 		FILE *id2fr = fopen(id2_path, "r");
 		FILE *rankfw = fopen(id3_path, "wb");
 
-		printf("sorting:\n");
 		merge_files(id1fr, st_hf, id2fr, nd_hf, rankfw);
-
-		printf("finish sorting\n");
 		fclose(rankfw);
 
 		/**************************************
@@ -338,6 +241,7 @@ main(int argc, char const *argv[])
 				fprintf(enf, "%c", delim);
 		}
 		free(rank_nd);
+		free(delim_stat);
 
 		fclose(rankfr);
 		fclose(id2fr);
@@ -345,7 +249,6 @@ main(int argc, char const *argv[])
 	}
 
 	/* free all mallocated buffers */
-
 	free(buffer);
 
 	/* closing all opened files */
@@ -478,10 +381,105 @@ q3sort(int *rank, int lo, int hi, int d)
 	q3sort(rank, gt+1, hi, d);
 }
 
-int 
-f_cmper(const void *a, const void *b)
+int
+delcmp(char *x, int x_idx, char *y, int y_idx)
 {
-	return 0;
+	while (*x && (*x == *y))
+	{
+		x++;
+		y++;
+
+		if (*x == delimiter)
+			return (x_idx - y_idx);
+	}
+
+	if (*x == delimiter)
+	{
+		if (*y == delimiter)
+			return (x_idx - y_idx);
+		else
+			return -1;
+	}
+	else
+	{
+		if (*y == delimiter)
+			return (x_idx < y_idx);
+		else
+			return (*x - *y);
+	}
+
+	return strcmp(x, y);
+}
+
+void 
+merge_files(FILE *rf1, int N1, FILE *rf2, int N2, FILE *wf)
+{
+	int num1, num2;
+	int i, j;
+	i = j = 0;
+	fread(&num1, sizeof(int), 1, rf1);
+	fread(&num2, sizeof(int), 1, rf2);
+
+	while ((i < N1) && (j < N2))
+	{
+		if (buffer[num1] == delimiter)
+		{
+			fwrite(&num1, sizeof(int), 1, wf);
+			fread(&num1, sizeof(int), 1, rf1);
+			i++;
+			continue;
+		}
+		if (buffer[num2] == delimiter)
+		{
+			fwrite(&num2, sizeof(int), 1, wf);
+			fread(&num2, sizeof(int), 1, rf2);
+			j++;
+			continue;
+		}
+
+		if (buffer[num1] < buffer[num2])
+		{
+			fwrite(&num1, sizeof(int), 1, wf);
+			i++;
+			fread(&num1, sizeof(int), 1, rf1);
+		}
+		else if (buffer[num1] > buffer[num2])
+		{
+			fwrite(&num2, sizeof(int), 1, wf);
+			j++;
+			fread(&num2, sizeof(int), 1, rf2);
+		}
+		else
+		{
+			int cmp = delcmp(&buffer[num1], num1, &buffer[num2], num2);
+			if (cmp < 0)
+			{
+				fwrite(&num1, sizeof(int), 1, wf);
+				i++;
+				fread(&num1, sizeof(int), 1, rf1);
+			}
+			else
+			{					
+				fwrite(&num2, sizeof(int), 1, wf);
+				j++;
+				fread(&num2, sizeof(int), 1, rf2);
+			}
+		}
+	}
+
+	while (i < N1)
+	{
+		fwrite(&num1, sizeof(int), 1, wf);		
+		fread(&num1, sizeof(int), 1, rf1);
+		i++;
+	}
+
+	while (j < N2)
+	{
+		fwrite(&num2, sizeof(int), 1, wf);		
+		fread(&num2, sizeof(int), 1, rf2);
+		j++;
+	}
 }
 
 int 
